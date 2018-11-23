@@ -1,0 +1,474 @@
+a:3:{s:4:"time";i:1534500147;s:6:"expire";i:60;s:5:"value";s:64881:"<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="language" content="zh-CN">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1">
+    <meta name="renderer" content="webkit">
+    <link rel="stylesheet" type="text/css" href="http://cmsstatic.dataoke.com//css/reset.css?v=201808091807">
+    <link rel="stylesheet" type="text/css" href="http://cmsstatic.dataoke.com//css/footer.css?v=201808091807">
+    <link rel="stylesheet" type="text/css" href="http://cmsstatic.dataoke.com//css/pager.css?v=201808091807">
+    <link rel="stylesheet" type="text/css" href="http://cmsstatic.dataoke.com//css/swiper.min.css?v=201808091807">
+    <link rel="stylesheet" type="text/css" href="http://cmsstatic.dataoke.com//css/dtk.css?v=201808091807">
+    <!-- 皮肤 S-->
+        <!-- 皮肤 E-->
+    <link rel="stylesheet" href="http://cmsstatic.dataoke.com//css/iconfont.css?v=201808091807">
+    <title>8.18大促预热_扣扣萌店</title>
+    <meta name="keywords" content=",扣扣萌店"/>
+    <meta name="description" content=""/>
+    <script src="http://cmsstatic.dataoke.com/other/jquery/1.12.4/jquery.min.js?v=201808091807"></script>
+    <script src="http://cmsstatic.dataoke.com//js/layer/layer.js?v=201808091807"></script>
+    <script src="http://cmsstatic.dataoke.com//js/dtk.js?v=201808091807"></script>
+    <script src="http://cmsstatic.dataoke.com//js/swiper.min.js?v=201808091807"></script>
+    <script src="http://cmsstatic.dataoke.com//js/clipboard.min.js?v=201808091807"></script>
+</head>
+<body data-appid="699973" data-in="1">
+<!--顶部推荐位s-->
+<div id="testTop"></div>
+<!--顶部推荐位e-->
+<div id="navTop">
+
+    <div id="top">
+        <div id="topleft" style="margin: 0;line-height: 25px;">更多优惠尽在微信公众号：潘多拉福利                    </div>
+        <ul id="topright" style="line-height: 25px;">
+            <li style=" margin-right: 8px;">
+                <a class="set_home" href="javascript:void(0)" onclick="SetHome(this,window.location)" style="color: #757575" title="将本站设为首页">设为首页</a>
+            </li>
+            <li style="margin-right: 8px;">
+                <a class="add_favorite" href="javascript:void(0)" onclick="shoucang(document.title,window.location)" style="color: #757575" title="加入收藏，方便下次打开">加入收藏</a>
+            </li>
+            <li>
+                <a class="header_service" target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=21013146&site=qq&menu=yes" style="color: #8da7cb" title="联系我帮你解答">遇到购物问题? 联系我 ></a>
+            </li>
+        </ul>
+        <div class="clear"></div>
+    </div>
+</div>
+
+<div id="headNav">
+    <div id="header" style="padding-bottom: 16px;">
+        <a class="header_logo" href="/tao?r=index/index&u=699973" style="width: 380px; height: 80px;display: inline-block;float: left;    background-size: inherit;    background: url('http://qqmengdian.cn/logo1.png')left top no-repeat;    margin-top: -7px;text-align: left;line-height: 80px;font-size: 36px;padding-left: 20px;">
+                    </a>
+
+        
+        <div id="showList">
+            <div id="search">
+                <input type="hidden" name="h_kw" id="h_kw" value="中秋月饼">
+                <input type="hidden" name="h_url" id="h_url" value="/tao?r=l">
+                <input type="hidden" name="m_url" id="m_url" value="/tao?r=l&kw=%E6%9C%88%E9%A5%BC">
+                <form action="/tao?r=index/index" method="get">
+                    <input type="hidden" name="r" value="l">
+                    <input type="text" autocomplete="off" class="theme-border-color-1 my-src-input" value="" name="kw" placeholder="中秋月饼"/>
+                    <span class="src-close-btn"></span>
+                    <button class="theme-bg-color-1 my-src-btn">搜 索</button>
+                </form>
+                <ul class="search-land">
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <p>关闭</p>
+                </ul>
+            </div>
+
+            <dl>
+                <dt class="rg"></dt>
+            </dl>
+            <dl>
+                <dt class="zy"></dt>
+            </dl>
+            <dl>
+                <dt class="qc"></dt>
+            </dl>
+
+        </div>
+        <div class="clear"></div>
+    </div>
+
+    <!--悬浮搜索框s-->
+    
+        <div class="floatNav">
+            <div class="w_1200">
+                <ul class="fn-left">
+                    <li class="">
+                        <a href="/tao?r=index">今日上新</a>
+                    </li>
+                                            <li class="">
+                            <a href="/tao?r=l&cid=1"> 女装</a>
+                        </li>
+                                            <li class="">
+                            <a href="/tao?r=l&cid=3"> 美妆</a>
+                        </li>
+                                            <li class="">
+                            <a href="/tao?r=l&cid=6"> 美食</a>
+                        </li>
+                                            <li class="">
+                            <a href="/tao?r=l&cid=9"> 男装</a>
+                        </li>
+                                            <li class="">
+                            <a href="/tao?r=l&cid=4"> 居家日用</a>
+                        </li>
+                                            <li class="">
+                            <a href="/tao?r=l&cid=5"> 鞋品</a>
+                        </li>
+                                            <li class="">
+                            <a href="/tao?r=l&cid=11"> 箱包</a>
+                        </li>
+                                            <li class="">
+                            <a href="/tao?r=l&cid=14"> 家装家纺</a>
+                        </li>
+                                            <li class="">
+                            <a href="/tao?r=l&cid=8"> 数码家电</a>
+                        </li>
+                                            <li class="">
+                            <a href="/tao?r=l&cid=2"> 母婴</a>
+                        </li>
+                                            <li class="">
+                            <a href="/tao?r=l&cid=12"> 配饰</a>
+                        </li>
+                                            <li class="">
+                            <a href="/tao?r=l&cid=10"> 内衣</a>
+                        </li>
+                                            <li class="">
+                            <a href="/tao?r=l&cid=7"> 文娱车品</a>
+                        </li>
+                                            <li class="">
+                            <a href="/tao?r=l&cid=13"> 户外运动</a>
+                        </li>
+                                    </ul>
+                <div class="fn-block">
+                    <form action="/tao?r=l&kw=%E6%9C%88%E9%A5%BC" method="get">
+                        <input type="hidden" name="r" value="l">
+                        <input type="text" autocomplete="off" class="fn-src my-src-input" value="" name="kw" placeholder="中秋月饼"/>
+                        <span class="src-close-btn" style="right:55px;top: 3px;"></span>
+                        <button type="submit" class="srcBtn"></button>
+                    </form>
+                    <ul class="search-land" style="top:32px">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <p>关闭</p
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!--悬浮搜索框e-->
+</div>
+
+<div id="baner" class="theme-bg-color-1">
+    <div id="nav" style="font-size: 15px;">
+        <a href="/tao?r=index/index&u=699973" class="theme-hover-bg-color-8 iconM " style="padding:8px 27px;">
+            <i class="iconfont">&#xe601;</i><span style="margin-right: 7px;">今日上新</span>
+        </a>
+
+        <a class="theme-hover-bg-color-8 lq_live " href="/tao?r=l&u=699973" style="padding:8px 15px;" style="position:relative">
+            领券优惠直播
+                    </a>
+
+        <a class="theme-hover-bg-color-8 " href="/tao?r=ddq&u=699973" style="padding:8px 15px;">
+            咚咚抢<div style="position:absolute; width:24px; height:32px; background:#FFCC00;margin-left: 98px; margin-top: -25px; background:url(http://a.vpimg3.com/upload/dop/2016/01/04/148/HOTT_qeu.gif)"></div>
+        </a>
+
+        <a class="theme-hover-bg-color-8 iconH " href="/tao?r=p&u=699973"  style="padding:8px 15px;">
+            超级人气榜
+        </a>
+
+        <a class="theme-hover-bg-color-8 " href="/tao?r=nine&u=699973" style="padding:8px 15px;">
+            9块9包邮
+        </a>
+
+        
+    </div>
+</div>
+
+<div id="dtk_mian">
+    <style type="text/css">
+    </style>
+<script>
+    var goodsJson = {"6364":{"goods":[],"template":null,"goods_num":"0","single_margin_right":"0","single_margin_bottom":"0","app_threshold":null,"title_link":"\/tao?r=l\/d&u=699973&id="},"6365":{"goods":[],"template":null,"goods_num":"0","single_margin_right":"0","single_margin_bottom":"0","app_threshold":null,"title_link":"\/tao?r=l\/d&u=699973&id="},"6366":{"goods":[],"template":null,"goods_num":"0","single_margin_right":"0","single_margin_bottom":"0","app_threshold":null,"title_link":"\/tao?r=l\/d&u=699973&id="},"6367":{"goods":[{"mid":"6367","id":"15955673","title":"RECIPE\u5b66\u751f\u97e9\u56fd\u6c34\u6676\u9632\u6652\u55b7\u96fe\u5a1c\u624e \u9632\u6c34\u5168\u8eab\u9632\u6652\u971c\u9762\u90e8\u9632\u7d2b\u5916\u7ebf\u5973","yongjin_type":"3","quan_id":"e482ad8fd175410dad2dcf8c85e41c43","quan_time":"2018-08-17 23:59:59","quan_num":"17250","quan_over":"7750","d_title":"\u3010\u4e03\u5915\u7206\u6b3e\u3011\u5a1c\u624e\u540c\u6b3e\u83b1\u65af\u58c1\u9632\u6652\u55b7\u96fe","yuanjia":"69.00","goodsid":"521797797834","pic":"https:\/\/img.alicdn.com\/imgextra\/i1\/2641546987\/TB22IjOihOMSKJjSZFlXXXqQFXa_!!2641546987.jpg","yongjin_jihua":"20.01","zhongfen":"0.00","jihua_link":"","xiaoliang":"30757","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"0","is_haitao":"1","quan_jine":"25.00","start_time":"2018-08-15 09:14:11","expend":null,"earning":null,"jiage":"44.00","miaoshu":"\u3010\u5386\u53f2\u65b0\u4f4e\u3011\u3010\u5929\u732b\u56fd\u9645\u3011\u97e9\u56fd\u8fdb\u53e3\uff0c\u5a1c\u624e\u540c\u6b3e\u9632\u6652\u4fdd\u6e7f\u4e0d\u6cb9\u817b\uff0c\u5168\u900f\u660e\u4e0d\u6d6e\u767d\uff0c\u7528\u8fc7\u7684\u90fd\u77e5\u9053\u6709\u591a\u597d\u7528\uff0c\u590f\u5b63\u4e5f\u8981\u767d\u8d77\u6765\u3010\u8d60\u8fd0\u8d39\u9669\u3011","o_sort":"4"},{"mid":"6367","id":"15956957","title":"\u83b1\u59ae\u96c5\u73bb\u5c3f\u9178\u6c34\u6d3b\u9762\u819c\u8865\u6c34\u4fdd\u6e7f\u6e05\u6d01\u63d0\u4eae\u80a4\u8272\u6536\u7f29\u6bdb\u5b54\u5973\u58eb\u5b66\u751f\u6b63\u54c1","yongjin_type":"3","quan_id":"bee9047ba022467eb6a489d73b108b0b","quan_time":"2018-08-18 23:59:59","quan_num":"48500","quan_over":"1500","d_title":"\u3010\u83b1\u59ae\u96c5\u3011\u73bb\u5c3f\u9178\u6c34\u6d3b\u9762\u819c10\u7247","yuanjia":"49.90","goodsid":"570617412582","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/924592644\/TB2237_DVmWBuNjSspdXXbugXXa_!!924592644.jpg","yongjin_jihua":"40.00","zhongfen":"0.00","jihua_link":"","xiaoliang":"24583","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"1","is_haitao":"0","quan_jine":"40.00","start_time":"2018-08-16 00:00:00","expend":null,"earning":null,"jiage":"9.90","miaoshu":"\u3010\u5386\u53f2\u4f4e\u4ef7\u3011\u4fdd\u6e7f\u8865\u6c34\u6e05\u6d01\uff0c\u8ba9\u4f60\u7684\u808c\u80a4\u7ec6\u817b\u5982\u8102\uff0c\u591a\u79cd\u5929\u7136\u6210\u5206\uff0c\u65e0\u523a\u6fc0\uff0c\u65e0\u6dfb\u52a0\uff0c\u7231\u4e0a\u4f60\u7684\u7f8e\u4e3d\uff0c\u6211\u6709\u6211\u7684\u5c0f\u79d8\u5bc6\uff01\u3010\u8d60\u8fd0\u8d39\u9669\u3011","o_sort":"5"},{"mid":"6367","id":"15961881","title":"\u78a7\u7d20\u5802\u8717\u725b\u6e05\u6d01\u9762\u819c\u8865\u6c34\u4fdd\u6e7f\u7f8e\u767d\u6de1\u6591\u795b\u75d8\u63d0\u4eae\u80a4\u8272\u6536\u7f29\u6bdb\u5b54\u5973\u7537\u58eb","yongjin_type":"3","quan_id":"73b1c0b54af044bc9b9a0b266a0af72a","quan_time":"2018-08-19 23:59:59","quan_num":"25800","quan_over":"4200","d_title":"\u5927\u724c\u3010\u78a7\u7d20\u5802\u3011\u8717\u725b\u7cbe\u534e\u7f8e\u767d\u9762\u819c20\u7247","yuanjia":"24.90","goodsid":"536333848845","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/2925671099\/TB2h0DUi4XkpuFjy0FiXXbUfFXa_!!2925671099.jpg","yongjin_jihua":"30.00","zhongfen":"0.00","jihua_link":"","xiaoliang":"170954","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"1","is_haitao":"0","quan_jine":"5.00","start_time":"2018-08-16 00:00:00","expend":null,"earning":null,"jiage":"19.90","miaoshu":"\u3010\u5386\u53f2\u65b0\u4f4e\u3011\u9093\u5bb6\u4f73\u503e\u60c5\u4ee3\u8a00\uff01\u7f8e\u4e3d\u4fcf\u4f73\u4eba\u529b\u8350\u54c1\u724c\uff01\u6e56\u5357\u536b\u89c6\u63a8\u8350\u4ea7\u54c1\uff0c\u8d85\u503c\u4e8c\u5341\u7247\u88c5\uff01\u5c42\u5c42\u6df1\u5165\u8865\u6c34\u7f8e\u767d\uff0c\u8fdc\u79bb\u80a4\u8272\u6697\u6c89\uff0c\u5f39\u6da6\u5149\u6cfd\u517b\u80a4\uff0c\u957f\u4e45\u9501\u6c34\u4fdd\u6e7f\uff0c\u8fdc\u79bb\u7c97\u7cd9\u5e72\u71e5\uff0c\u7537\u5973\u901a\u7528\u54e6\uff01","o_sort":"6"},{"mid":"6367","id":"15955788","title":"recipe\u97e9\u56fd\u6c34\u6676\u9632\u6652\u971c\u519b\u8bad\u5ae9\u767d50g \u5b66\u751f\u4e00\u62b9\u767d\u6e05\u723d\u9632\u6652\u5973\u6b63\u54c1\u5168\u8eab","yongjin_type":"3","quan_id":"e482ad8fd175410dad2dcf8c85e41c43","quan_time":"2018-08-17 23:59:59","quan_num":"17250","quan_over":"7750","d_title":"\u3010\u7206\u6b3e\u3011\u97e9\u56fd\u6c34\u6676\u9632\u6652\u971c\u4fdd\u6e7f\u9694\u79bb\u971c","yuanjia":"69.00","goodsid":"551654841153","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/2117284125\/TB2jXPjnpkoBKNjSZFkXXb4tFXa_!!2117284125.jpg","yongjin_jihua":"20.00","zhongfen":"0.00","jihua_link":"","xiaoliang":"6259","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"0","is_haitao":"1","quan_jine":"25.00","start_time":"2018-08-15 09:17:32","expend":null,"earning":null,"jiage":"44.00","miaoshu":"\u3010\u5386\u53f2\u65b0\u4f4e\u3011\u3010recipe\u5929\u732b\u56fd\u9645\u3011\u97e9\u56fd\u8fdb\u53e3\uff0c\u9632\u6652\u7f8e\u767d\uff0c\u4fee\u9970\u80a4\u8272\uff0c\u6ecb\u6da6\u9632\u6652\uff0c\u9694\u79bb\u906e\u7455\uff0c\u63d0\u4eae\u80a4\u8272\u3010\u8d60\u8fd0\u8d39\u9669\u3011","o_sort":"99999"},{"mid":"6367","id":"15970365","title":"\u4eb3\u836f\u5343\u8349\u6842\u82b1\u9178\u6885\u6c64\u539f\u6599\u5305\u590f\u5b63\u996e\u6599\u888b\u88c5\u9178\u6885\u7c89\u514d\u716e\u51b7\u6ce1\u51b2\u996e\u9178\u6885\u6c41","yongjin_type":"3","quan_id":"617f069ea6ea4f4b91846e925f619037","quan_time":"2018-08-17 23:59:59","quan_num":"19925","quan_over":"75","d_title":"\u4eb3\u836f\u5343\u8349\u6842\u82b1\u9178\u6885\u6c64\u539f\u6599","yuanjia":"21.90","goodsid":"570806929447","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/559829438\/TB2kTJIFhWYBuNjy1zkXXXGGpXa_!!559829438.jpg","yongjin_jihua":"40.00","zhongfen":"0.00","jihua_link":null,"xiaoliang":"4901","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"1","is_haitao":"0","quan_jine":"10.00","start_time":"2018-08-16 09:33:25","expend":null,"earning":null,"jiage":"11.90","miaoshu":"\u3010\u6beb\u836f\u5343\u8349\u65d7\u8230\u5e97\u3011\u5386\u53f2\u6700\u723d\u4ef7\uff01\u62cd\u4e24\u4efd\uff01\u4e4c\u6885\u3001\u5c71\u6942\u3001\u6a58\u76ae\u3001\u7518\u8349\u3001\u73ab\u7470\u8304\u3001\u8584\u8377\u3001\u6842\u82b1\u3001\u51b0\u7cd6\uff0c8\u79cd\u5b9e\u6253\u5b9e\u539f\u6599\u7ec4\u5408\uff0c\u597d\u559d\u770b\u5f97\u89c1\uff01\u6574\u6574\u4e00\u5927\u76d2\uff0c\u8db3\u8db3\u5341\u5c0f\u5305\uff0c\u8d85\u4f4e\u4ef710.8\u5143\u590f\u5929\u5c31\u662f\u8981\u559d\u9178\u6885\u6c64\uff0c\u6d88\u6691\u89e3\u6e34\u3002","o_sort":"99999"},{"mid":"6367","id":"15955956","title":"\u3010\u4e702\u90011\u3011\u4fee\u6b63\u84dd\u8393\u53f6\u9ec4\u7d20\u916f\u84dd\u8393\u7d20\u6210\u4eba\u513f\u7ae5\u9752\u5c11\u5e74\u4e2d\u8001\u5e74\u9001\u62a4\u773c\u8d34","yongjin_type":"3","quan_id":"219ed60ae5f7480ebd0203fe01376a7c","quan_time":"2018-08-17 23:59:59","quan_num":"19400","quan_over":"600","d_title":"\u3010\u5927\u724c\u4fee\u6b63\u3011\u62a4\u773c\u84dd\u8393\u53f6\u9ec4\u7d20\u916f\u724760\u7247","yuanjia":"39.00","goodsid":"555308066299","pic":"https:\/\/img.alicdn.com\/bao\/uploaded\/i3\/TB1vQItSXXXXXXPaFXXXXXXXXXX_!!0-item_pic.jpg","yongjin_jihua":"30.00","zhongfen":"0.00","jihua_link":"","xiaoliang":"4461","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"1","is_haitao":"0","quan_jine":"20.00","start_time":"2018-08-15 09:22:52","expend":null,"earning":"","jiage":"19.00","miaoshu":"\u3010\u7206\u6b3e\u6765\u88ad\uff0c\u5386\u53f2\u8d85\u4f4e\u4ef7\uff01\uff01\u3011\u5929\u7136\u690d\u7269\u63d0\u53d6\uff0c\u53f6\u9ec4\u7d20\u53ef\u5438\u6536\u5927\u91cf\u84dd\u5149\uff0c\u84dd\u8393\u6d3b\u5316\u89c6\u7f51\u819c\uff0c\u6210\u4eba\u513f\u7ae5\u8001\u4eba\u90fd\u53ef\u98df\u7528\u3002\u5173\u7231\u5fc3\u7075\u4e4b\u7a97\uff0c\u8fdc\u79bb\u8fd1\u89c6\uff0c\u4fee\u6b63\u5927\u54c1\u724c\u503c\u5f97\u4fe1\u8d56\uff0c\u54c1\u8d28\u4fdd\u8bc1\uff01\u62a2\u5230\u5c31\u662f\u8d5a\u5230\uff0c\u9519\u8fc7\u4e0d\u518d\u6709\uff01\u8d60\u8fd0\u8d39\u9669","o_sort":"99999"},{"mid":"6367","id":"15928727","title":"\u5361\u5e1d\u4e50\u9cc4\u9c7c\u5546\u52a1\u53cc\u80a9\u5305\u7537 \u4e2d\u5b66\u751f\u5973\u7535\u8111\u5305 \u65c5\u884c\u7537\u58eb\u80cc\u5305\u5927\u5bb9\u91cf\u4e66\u5305","yongjin_type":"1","quan_id":"659a4b54d23746a98541af1c6ecea174","quan_time":"2018-08-19 23:59:59","quan_num":"41500","quan_over":"8500","d_title":"\u3010\u5361\u5e1d\u4e50\u9cc4\u9c7c\u3011\u5927\u5bb9\u91cf\u5546\u52a1\u7535\u8111\u65c5\u884c\u53cc\u80a9\u5305","yuanjia":"99.00","goodsid":"570466033741","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/3386804836\/TB2S.UuliCYBuNkSnaVXXcMsVXa_!!3386804836.jpg","yongjin_jihua":"30.00","zhongfen":"0.00","jihua_link":"","xiaoliang":"18014","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"1","is_haitao":"0","quan_jine":"60.00","start_time":"2018-08-13 13:00:00","expend":null,"earning":"","jiage":"39.00","miaoshu":"\u7279\u4ef7\u3001\u7279\u4ef7\u3010\u5386\u53f2\u4f4e\u4ef7\u3011\u5361\u5e1d\u4e50\u9cc4\u9c7c\u5927\u724c70\u5e74\u54c1\u724c\u5386\u53f2\u4f20\u627f\uff0c4.8\u9ad8\u8bc4\u5206\uff0c\u9ad8\u7aef\u54c1\u8d28\uff0c\u91cd\u78c5\u6765\u88ad\uff0c\u5927\u5bb9\u91cf\u7535\u8111\u5305\uff0c\u5b66\u751f\u5546\u52a1\u901a\u7528\uff0c\u9632\u6ed1\u8010\u78e8\uff0c\u5c3d\u663e\u7537\u58eb\u9b45\u529b\uff0c\u52a0\u539a\u725b\u6d25\u9762\u6599\uff0c\u9632\u522e\u9632\u6c34\uff0c\u5b89\u5168\u9632\u76d7~\u3010\u8d60\u9001\u8fd0\u8d39\u9669\u3011","o_sort":"99999"},{"mid":"6367","id":"15936620","title":"\u535a\u9510\u5439\u98ce\u673a\u5927\u529f\u7387\u7535\u5439\u98ce\u7b52\u4e0d\u4f24\u53d1\u7406\u53d1\u5e97\u53d1\u5eca\u4e13\u7528\u53ef\u6298\u53e0\u5bb6\u7528\u51b7\u70ed\u98ce","yongjin_type":"3","quan_id":"c3911211878e4d458b42fdcec2c542d4","quan_time":"2018-08-20 23:59:59","quan_num":"9800","quan_over":"25200","d_title":"\u3010\u5386\u53f2\u4f4e\u4ef7\u3011\u98de\u79d1\u535a\u9510\u5927\u529f\u7387\u6298\u53e0\u5439\u98ce\u673a","yuanjia":"34.90","goodsid":"573449683712","pic":"https:\/\/img.alicdn.com\/imgextra\/i1\/3164328597\/TB28s1UcUD.BuNjt_h7XXaNDVXa_!!3164328597.jpg","yongjin_jihua":"20.00","zhongfen":"0.00","jihua_link":"","xiaoliang":"18327","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"0","is_haitao":"0","quan_jine":"15.00","start_time":"2018-08-14 08:00:00","expend":null,"earning":null,"jiage":"19.90","miaoshu":"\u3010\u5386\u53f2\u4f4e\u4ef7\u3011\u5929\u732b\u5168\u7403\u6765\u7535\uff0c\u5927\u724c\u98de\u79d1\u535a\u9510\u72c2\u6b22\u4ef7\u5238\u540e\u53ea\u898119.9\uff0c\u9ad8\u6027\u4ef7\u6bd4\u56fd\u6c11\u54c1\u724c\uff0c2200W\u5927\u529f\u7387\uff0c\u98ce\u529b\u5f3a\u52b2\uff0c\u5e72\u53d1\u5feb\uff0c\u4fbf\u643a\u53ef\u6298\u53e0\uff0c\u51b7\u70ed\u98ce\u516d\u6863\u53ef\u8c03\u8282\uff0c\u7092\u9e21\u5212\u7b97\uff01","o_sort":"99999"}],"template":null,"goods_num":"0","single_margin_right":"0","single_margin_bottom":"0","app_threshold":null,"title_link":"\/tao?r=l\/d&u=699973&id="},"6368":{"goods":[],"template":null,"goods_num":"0","single_margin_right":"0","single_margin_bottom":"0","app_threshold":null,"title_link":"\/tao?r=l\/d&u=699973&id="},"6369":{"goods":[{"mid":"6369","id":"15947045","title":"\u8d64\u8c6a\u6fb3\u6d32\u5bb6\u5ead\u513f\u7ae5\u725b\u6392\u5957\u9910\u56e2\u8d2d10\u5355\u7247\u65b0\u9c9c\u8fdb\u53e3\u725b\u8089\u83f2\u529b\u9ed1\u6912\u5200\u53c9","yongjin_type":"3","quan_id":"6615007bc5e848478dd11f55d499c527","quan_time":"2018-08-21 23:59:59","quan_num":"43000","quan_over":"7000","d_title":"\u3010\u4e0b\u5355\u9001\u714e\u9505\u3011\u8d64\u8c6a\u6fb3\u6d32\u725b\u6392\u5957\u991010\u7247\u88c5","yuanjia":"108.00","goodsid":"560227265458","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/1611893164\/TB2xUtykjuhSKJjSspdXXc11XXa_!!1611893164.jpg","yongjin_jihua":"20.00","zhongfen":"0.00","jihua_link":"","xiaoliang":"16443","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"0","is_haitao":"0","quan_jine":"30.00","start_time":"2018-08-15 00:00:00","expend":null,"earning":null,"jiage":"78.00","miaoshu":"\u4e0b\u5355\u9001\u714e\u9505\uff01\u83f2\u529b\u725b\u6392130\u514b*5+\u6c99\u6717\u725b\u6392130g*5+\u9171\u6599*10+\u5200\u53c9\uff0c\u987a\u4e30\u51b7\u8fd0\uff0c\u6fb3\u6d32\u8fdb\u53e3\u725b\u6392\uff0c\u9ec4\u91d1\u90e8\u4f4d\uff0c\u8425\u517b\u5230\u4f4d\u3002","o_sort":"1"},{"mid":"6369","id":"15963355","title":"\u6052\u90fd\u6fb3\u6d32\u9ed1\u6912\u725b\u6392\u56e2\u8d2d10\u72471300g \u8fdb\u53e3\u9ed1\u7cca\u6912\u53e3\u5473\u65b0\u9c9c\u725b\u8089\u725b\u6252","yongjin_type":"3","quan_id":"537f8b27f5e6424ba17f0503a07d0d03","quan_time":"2018-08-18 23:59:59","quan_num":"8400","quan_over":"1600","d_title":"\u6052\u90fd\u6fb3\u6d32\u8fdb\u53e3\u5546\u8d85\u725b\u639210\u7247","yuanjia":"109.00","goodsid":"573242267722","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/2109678426\/TB2lg_8oHorBKNjSZFjXXc_SpXa_!!2109678426.jpg","yongjin_jihua":"20.00","zhongfen":"0.00","jihua_link":null,"xiaoliang":"12060","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"0","is_haitao":"0","quan_jine":"20.00","start_time":"2018-08-15 16:31:00","expend":null,"earning":null,"jiage":"89.00","miaoshu":"\u3010\u7b2c\u4e00\u4ef689\u5143\uff0c\u524d\u4e00\u5c0f\u65f6\u62cd\u4e24\u4ef6\u5238\u540e138\u5143\uff0c\u6574\u657420\u7247\uff0c2600g\u76f8\u5f53\u4e8e5\u65a4\u591a\uff01\u3011\u6fb3\u6d32\u8fdb\u53e3\u9ed1\u6912\u53e3\u5473\uff0c\u9c9c\u725b\u6252\uff0c7\u4ed3\u53d1\u8d27\uff0c\u7edd\u975e\u62fc\u63a5\uff0c\u6574\u5757\u814c\u5236\uff0c\u51b7\u9c9c\u987a\u4e30\u5305\u90ae\u5230\u5bb6\uff01\uff01","o_sort":"2"},{"mid":"6369","id":"15872771","title":"\u3010\u6a59\u5b50\u5feb\u8dd1\u3011\u9ad8\u86cb\u767d\u9e21\u8089\u80a0 \u9e21\u80f8\u8089\u5065\u8eab\u4ee3\u9910\u5373\u98df\u8f7b\u98df\u9e21\u80f8\u812f\u8089\u5957\u9910","yongjin_type":"3","quan_id":"45f58ece6699448fad5dbc9930a10a6d","quan_time":"2018-08-17 23:59:59","quan_num":"7800","quan_over":"2200","d_title":"\u3010\u6a59\u5b50\u5feb\u8dd1\u3011\u5065\u8eab\u4ee3\u9910\u9ad8\u86cb\u767d\u9e21\u8089\u80a0","yuanjia":"48.90","goodsid":"572522738630","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/168745253\/TB2iX12XcXIxuRkSO9eXXcSjFXa_!!168745253.jpg","yongjin_jihua":"20.00","zhongfen":"0.00","jihua_link":null,"xiaoliang":"6774","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"0","is_haitao":"0","quan_jine":"15.00","start_time":"2018-08-10 08:28:16","expend":null,"earning":null,"jiage":"33.90","miaoshu":"\u3010\u987a\u4e30\u5305\u90ae\u3011\u4f4e\u70ed\u91cf\u3001\u9ad8\u86cb\u767d\u9e21\u80f8\u8089\u80a0\uff0c\u660e\u661f\u4ea7\u54c1\u63a8\u8350\uff0c\u4ed6\u4eec\u4e0d\u544a\u8bc9\u4f60\u7684\u5065\u8eab\u9910\u3002","o_sort":"3"},{"mid":"6369","id":"15912842","title":"\u3016\u987a\u4e30\u5305\u90ae\u3017\u8fdb\u53e3\u9f99\u5229\u9c7c\u67f3\u65b0\u9c9c\u514d\u90ae\u51b7\u51bb\u5df4\u6c99\u9c7c3\u65a4\u65e0\u523a\u5b9d\u5b9d\u8f85\u98df","yongjin_type":"3","quan_id":"5342365b91f3464281bbf1e8fcbdd347","quan_time":"2018-08-17 23:59:59","quan_num":"99887","quan_over":"113","d_title":"\u3010\u7b2c\u4e8c\u4efd\u534a\u4ef7\u3011\u8fdb\u53e3\u9f99\u5229\u9c7c\u67f3\u65b0\u9c9c\u5df4\u6c99\u9c7c3\u65a4","yuanjia":"96.00","goodsid":"545529082126","pic":"https:\/\/gd2.alicdn.com\/imgextra\/i2\/3163995224\/TB20F1XhzlxYKJjSZFuXXaYlVXa_!!3163995224.jpg","yongjin_jihua":"30.00","zhongfen":"0.00","jihua_link":null,"xiaoliang":"323","huodong_type":"1","istmall":"0","jinpaimaijia":"1","yunfeixian":"0","is_haitao":"0","quan_jine":"10.00","start_time":"2018-08-11 18:06:32","expend":null,"earning":"","jiage":"86.00","miaoshu":"\u65b0\u9c9c\u76f4\u8fbe\uff0c\u987a\u4e30\u7a7a\u8fd0\u51b7\u94fe\u5305\u90ae\uff0c\u8d8a\u5357\u8fdb\u53e3\u65e0\u523a\u9c7c\u67f3\uff0c\u5b9d\u5b9d\u6700\u4f73\u8f85\u98df\u996e\u98df\uff0c\u6574\u6574\u4e09\u65a4\u88c5\uff0c\u7b2c\u4e8c\u4efd\u534a\u4ef7\uff0c\u4e24\u4efd\u66f4\u8d85\u503c\u3010\u574f\u5355\u5305\u8d54\u3011","o_sort":"6"},{"mid":"6369","id":"15902300","title":"TORO\u62b9\u8336\u751f\u5de7\u514b\u529b\u793c\u76d2\u88c5\u9001\u5973\u53cb\u624b\u5de5\u9ed1\u677e\u9732\u4e03\u5915\u60c5\u4eba\u8282\u751f\u65e5\u793c\u7269\u96f6\u98df","yongjin_type":"3","quan_id":"5f0178fbe6d94daf99a117b1a1409030","quan_time":"2018-08-17 23:59:59","quan_num":"4673","quan_over":"327","d_title":"\u62b9\u8336\u624b\u5de5\u677e\u9732\u65e5\u5f0f\u751f\u5de7\u514b\u529b","yuanjia":"79.00","goodsid":"553138206297","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/2701288611\/TB2tDh8lZrI8KJjy0FhXXbfnpXa_!!2701288611.jpg","yongjin_jihua":"30.00","zhongfen":"0.00","jihua_link":"","xiaoliang":"1008","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"1","is_haitao":"0","quan_jine":"10.00","start_time":"2018-08-11 00:00:00","expend":null,"earning":null,"jiage":"69.00","miaoshu":"\u987a\u4e30\u7a7a\u8fd0\uff0c\u7eaf\u6307\u767d\u5de7\u514b\u529b\u4e0e\u751f\u9c9c\u5976\u6cb9\uff0c\u5b87\u6cbb\u62b9\u8336\u7c89\u7684\u5c42\u53e0\u4ea4\u878d\uff0c\u65e0\u9700\u5480\u56bc\uff0c\u6162\u6162\u5728\u53e3\u4e2d\u878d\u5316\uff0c\u6625\u5929\u7684\u8336\u9999\u76c8\u6ee1\u53e3\u8154\u3002","o_sort":"7"},{"mid":"6369","id":"15970407","title":"RASA\u6b27\u5f0f\u98ce\u5473\u9178\u5976\u5e38\u6e29\u71d5\u9ea6\u996e\u54c1\u4e73\u996e\u6599\u8393\u679c200ml*6\u74f6\u987a\u4e30\u5305\u90ae","yongjin_type":"3","quan_id":"e44f4ce045f7482c953e24bcd261cb8a","quan_time":"2018-08-22 23:59:59","quan_num":"34000","quan_over":"6000","d_title":"RASA\u6b27\u5f0f\u5e38\u6e29\u9178\u5976200ml*6\u74f6","yuanjia":"54.90","goodsid":"573089271557","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/2342206899\/TB2zH8zG4SYBuNjSspjXXX73VXa_!!2342206899.jpg","yongjin_jihua":"50.00","zhongfen":"0.00","jihua_link":"","xiaoliang":"1893","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"0","is_haitao":"0","quan_jine":"35.00","start_time":"2018-08-16 09:35:04","expend":null,"earning":null,"jiage":"19.90","miaoshu":"\u5bcc\u53cb\u8054\u5408\u662f\u4e00\u5bb6\u6e90\u81ea\u6b27\u6d32\uff0c\u62e5\u6709\u767e\u5e74\u4ee5\u4e0a\u5386\u53f2\u56fd\u9645\u4e73\u54c1\u516c\u53f8\u3002\u65d7\u4e0bRASA\u4e13\u4e3a\u4e2d\u56fd\u804c\u573a\u6253\u9020\u591a\u6b3e\u8da3\u5473\u4e73\u54c1\uff01\u529e\u516c\u5ba4\u80fd\u91cf\u5305\uff0c\u804c\u573a\u5145\u7535\u5b9d\uff01\u674f+\u71d5\u9ea6\uff0c\u6df7\u5408\u8393\u679c\uff0c\u4e24\u79cd\u98ce\u5473\u9178\u5976\u5e26\u7ed9\u4f60\u65b0\u5947\u4f53\u9a8c\uff01\u3010\u987a\u4e30\u5305\u90ae\u3011","o_sort":"8"},{"mid":"6369","id":"15955156","title":"\u3010\u4e00\u53f7\u51b0\u5ddd\u3011\u7279\u7ea7\u65b0\u7586\u54c8\u5bc6\u74dc \u6b63\u5b97 \u65b0\u9c9c\u5410\u9c81\u756a\u897f\u5dde\u871c25\u53f7\u751c\u74dc\u6c34\u679c","yongjin_type":"3","quan_id":"b11105fb806d4837ae609910e64e8d3a","quan_time":"2018-08-22 23:59:59","quan_num":"960","quan_over":"40","d_title":"\u3010\u4e00\u53f7\u51b0\u5ddd\u3011\u7279\u7ea7\u65b0\u7586\u54c8\u5bc6\u74dc","yuanjia":"79.00","goodsid":"566918900969","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/2438464540\/TB2IJANawvD8KJjSsplXXaIEFXa_!!2438464540.jpg","yongjin_jihua":"20.01","zhongfen":"0.00","jihua_link":null,"xiaoliang":"419","huodong_type":"1","istmall":"0","jinpaimaijia":"1","yunfeixian":"0","is_haitao":"0","quan_jine":"10.00","start_time":"2018-08-15 08:44:51","expend":null,"earning":null,"jiage":"69.00","miaoshu":"\u3010\u4e00\u7bb1\u4e24\u4e2a\u3011\u65b0\u7586\u539f\u4ea7\u5730\uff0c\u4f18\u8d28\u79cd\u690d\u533a\uff0c\u5410\u9c81\u756a\u706b\u7130\u5c71\u54c8\u5bc6\u74dc\uff0c\u76ae\u8584\u8089\u539a\uff0c\u7518\u751c\u723d\u53e3\uff0c\u6d53\u90c1\u679c\u9999\u5473\uff0c\u7518\u751c\u591a\u6c41\u3010\u987a\u4e30\u5305\u90ae\u3011","o_sort":"8"},{"mid":"6369","id":"15900728","title":"\u3010\u4e00\u53f7\u51b0\u5ddd\u30115\u65a4\u7279\u7ea7\u65b0\u7586\u87e0\u6843 \u987a\u4e30\u822a\u7a7a\u4ef6\u6843\u5b50\u6c34\u679c\u65b0\u9c9c\u6c34\u871c\u6843\u6bdb\u6843","yongjin_type":"3","quan_id":"ecfb84dac70948a08f92a36005767356","quan_time":"2018-08-17 23:59:59","quan_num":"9967","quan_over":"33","d_title":"5\u65a4\u7279\u7ea7\u65b0\u7586\u87e0\u6843\u6c34\u679c\u65b0\u9c9c\u6c34\u871c\u6843\u6bdb\u6843","yuanjia":"125.00","goodsid":"571022098413","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/2738506149\/TB28cMAEkKWBuNjy1zjXXcOypXa_!!2738506149.jpg","yongjin_jihua":"20.01","zhongfen":"0.00","jihua_link":null,"xiaoliang":"223","huodong_type":"1","istmall":"0","jinpaimaijia":"1","yunfeixian":"0","is_haitao":"0","quan_jine":"15.00","start_time":"2018-08-10 17:20:23","expend":null,"earning":null,"jiage":"110.00","miaoshu":"\u65b0\u7586\u87e0\u6843\uff0c\u738b\u6bcd\u5a18\u5a18\u7684\u5fa1\u7528\u87e0\u6843\uff0c\u751c\u871c\u591a\u6c41\uff0c\u679c\u8089\u7ec6\u817b\uff0c\u6e05\u723d\u53ef\u53e3\uff0c\u795e\u8bdd\u4e2d\u7684\u4ed9\u6843\uff0c\u4e0d\u4e00\u6837\u7684\u6ecb\u5473\uff0c\u65b0\u7586\u539f\u4ea7\u5730\u76f4\u63a5\u53d1\u8d27\uff0c\u574f\u5355\u5305\u8d54\uff0c\u987a\u4e30\u5305\u90ae","o_sort":"8"},{"mid":"6369","id":"15774168","title":"\u6bd4\u5229\u65f6\u8fdb\u53e3\u5939\u5fc3\u5de7\u514b\u529b\u793c\u76d2\u88c5\u9001\u5973\u53cb\u4e03\u5915\u60c5\u4eba\u8282\u751f\u65e5\u793c\u7269\u9001\u7537\u751f\u793c\u76d2","yongjin_type":"1","quan_id":"a2dfe5edca14440ba22f3e1835b0fb11","quan_time":"2018-08-19 23:59:59","quan_num":"8400","quan_over":"1600","d_title":"\u3010\u7231\u666e\u8bd7\u3011\u6bd4\u5229\u65f6\u8fdb\u53e3\u5939\u5fc3\u5de7\u514b\u529b\u793c\u76d2\u88c5","yuanjia":"78.00","goodsid":"544596955302","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/3038880848\/TB2oWt4q4WYBuNjy1zkXXXGGpXa_!!3038880848.jpg","yongjin_jihua":"30.00","zhongfen":"0.00","jihua_link":"http:\/\/pub.alimama.com\/myunion.htm?spm=a220o.1000855.0.0.76e914aem6l8e8#!\/promo\/self\/campaign?campaignId=68770596&shopkeeperId=120766930&userNumberId=3132095682","xiaoliang":"1086","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"1","is_haitao":"0","quan_jine":"30.00","start_time":"2018-08-12 00:00:00","expend":null,"earning":null,"jiage":"48.00","miaoshu":"\u4e03\u5915\u60c5\u4eba\u8282\u793c\u7269\uff0c\u987a\u4e30\u5305\u90ae\uff0c\u51b0\u888b\uff0c\u4fdd\u6e29\u888b\u5168\u7a0b\u914d\u9001\uff0c\u7cbe\u9009\u6bd4\u5229\u65f6\u8fdb\u53e3\uff0c\u8d28\u5730\u7ed2\u5bc6\u7ec6\u817b\uff0c\u9999\u9187\u7f8e\u5473\uff0c\u9999\u751c\u4e1d\u6ed1\uff0c\u53e3\u611f\u7f8e\u5999\uff0c\u7cbe\u5bc6\u9ad8\u6863\u793c\u76d2\u5305\u88c5\uff0c\u4f20\u9012\u6d53\u6d53\u7231\u610f\u3002","o_sort":"10"},{"mid":"6369","id":"15940462","title":"\u6735\u5a1c\u8d1d\u62c9\u534a\u719f\u829d\u58eb2\u76d2\u88c5\u7f51\u7ea2\u5976\u916a\u65e9\u9910\u5c0f\u9762\u5305\u751c\u54c1\u86cb\u7cd5\u70b9\u5fc3\u62b9\u8336\u96f6\u98df","yongjin_type":"3","quan_id":"a6f74de76c5f4c368f215952f09e1c53","quan_time":"2018-08-19 23:59:59","quan_num":"9873","quan_over":"127","d_title":"\u30102\u76d2\u88c5\u3011\u6735\u5a1c\u8d1d\u62c9\u534a\u719f\u829d\u58eb\u7f51\u7ea2\u5976\u916a\u65e9\u9910","yuanjia":"68.00","goodsid":"553588615116","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/2743979168\/TB2MK4auNWYBuNjy1zkXXXGGpXa_!!2743979168-0-item_pic.jpg","yongjin_jihua":"30.10","zhongfen":"0.00","jihua_link":"","xiaoliang":"206","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"1","is_haitao":"0","quan_jine":"20.00","start_time":"2018-08-14 09:10:20","expend":null,"earning":null,"jiage":"48.00","miaoshu":"\u624b\u5de5\u4e73\u916a\uff0c\u65e0\u6dfb\u52a0\u4efb\u4f55\u9632\u8150\u5242\u8272\u7d20\uff0c\u5b55\u5987\u53ef\u98df\uff0c\u4e09\u79cd\u53e3\u5473\uff0c\u53ea\u8981\u4e00\u53e3\u5c31\u80fd\u5403\u5230\u6ee1\u6ee1\u7684\u5e78\u798f\uff0c\u7ef5\u8f6f\u67d4\u6da6\u829d\u58eb\u77ac\u95f4\u70b8\u88c2\uff0c\u53e3\u611f\u987a\u6ed1\u7ec6\u817b\uff0c\u662f\u9001\u8001\u5a46\u9001\u5973\u53cb\u7684\u6700\u597d\u9009\u62e9\uff0c\u987a\u4e30\u5305\u90ae\uff0c\u8ba9\u60a8\u5403\u5230\u6700\u65b0\u9c9c\u7684\u7f8e\u98df\uff01","o_sort":"11"},{"mid":"6369","id":"15960720","title":"\u987a\u4e30\u5305\u90ae \u65e0\u7ebf\u952e\u76d8\u53f0\u5f0f\u7535\u8111\u7b14\u8bb0\u672c\u5916\u63a5\u8d85\u8584\u9759\u97f3\u6e38\u620f\u5bb6\u7528\u529e\u516c\u8ff7\u4f60\u5de7\u514b\u529b\u952e\u76d8 \u65f6\u5c1a\u7537\u5973\u751f\u901a\u75282.4G\u65e0\u7ebf\u5355\u952e\u76d8","yongjin_type":"3","quan_id":"77ab40410a4b4cd8b825c5c03c2e6963","quan_time":"2018-08-21 23:59:59","quan_num":"49842","quan_over":"158","d_title":"\u3010\u8fbe\u5a01\u5c14\u3011\u8d85\u8584\u9759\u97f3\u5de7\u514b\u529b\u65e0\u7ebf\u952e\u76d8","yuanjia":"128.00","goodsid":"563966734469","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/2031996749\/TB2XeAvmcnI8KJjSspeXXcwIpXa_!!2031996749.jpg","yongjin_jihua":"30.00","zhongfen":"0.00","jihua_link":null,"xiaoliang":"251","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"0","is_haitao":"0","quan_jine":"40.00","start_time":"2018-08-15 14:04:31","expend":null,"earning":null,"jiage":"88.00","miaoshu":"\u72ec\u7279\u526a\u5200\u811a\u8bbe\u8ba1\uff0c\u624b\u611f\u8212\u9002\uff0c\u5bff\u547d\u66f4\u957f\uff0c\u9759\u97f3\u65e0\u7ebf\u65f6\u5c1a\u7f8e\u89c2\uff0c\u9002\u5408\u6e38\u620f\u5bb6\u7528\u529e\u516c\uff0c\u9001\u9632\u6c34\u952e\u76d8\u819c\u3010\u8d60\u8fd0\u8d39\u9669\u3011","o_sort":"99999"},{"mid":"6369","id":"15940457","title":"vatti\u534e\u5e1d\u7535\u9676\u7089\u5bb6\u7528\u667a\u80fd\u53f0\u5f0f\u5927\u529f\u7387\u7535\u78c1\u7089\u7206\u7092\u5149\u6ce2\u7089\u716e\u8336\u5668\u6b63\u54c1","yongjin_type":"3","quan_id":"d1350fa051cd41d48bb2aca9f27fac97","quan_time":"2018-08-18 23:59:59","quan_num":"9770","quan_over":"230","d_title":"\u3010\u534e\u5e1d\u3011\u7535\u9676\u7089\u716e\u8336\u7089\u7535\u78c1\u7089","yuanjia":"209.00","goodsid":"568125591590","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/880137139\/TB2tBClrrSYBuNjSspfXXcZCpXa_!!880137139.jpg","yongjin_jihua":"20.00","zhongfen":"0.00","jihua_link":null,"xiaoliang":"1862","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"1","is_haitao":"0","quan_jine":"30.00","start_time":"2018-08-14 09:10:10","expend":null,"earning":"","jiage":"179.00","miaoshu":"\u3010\u987a\u4e30\u5305\u90ae\u3011\u4e0a\u5e02\u516c\u53f8\u54c1\u724c\uff0c\u5168\u56fd\u4fdd\u4fee\uff0c\u7ea2\u5916\u805a\u80fd\u5927\u706b\u529b\uff0c\u5782\u76f4\u52a0\u70ed\uff0c\u591a\u6863\u529f\u80fd\u8c03\u8282\uff0c\u7206\u7092\u7f8e\u98df\u65e0\u538b\u529b\uff0c\u65e0\u9ad8\u9891\u8f90\u5c04\u4e0d\u6311\u9505\uff0c60\u5206\u949f\u5b9a\u65f6\u529f\u80fd\uff0c\u84b8\u716e\u7116\u7096\u714e\u70e4\u7092\uff0c\u6ee1\u8db3\u4f60\u7231\u5403\u7684\u6b32\u671b\uff0c\u7f8e\u5473\u4eba\u751f\uff0c\u3010\u8d60\u8fd0\u8d39\u9669\u3011","o_sort":"99999"},{"mid":"6369","id":"15937993","title":"\u7490\u601d\u8fea\u94dd\u6846\u62c9\u6746\u7bb1\u4e07\u5411\u8f6e24\u5bf8\u65c5\u884c\u7bb1\u753728\u5bf8\u5b66\u751f\u5bc6\u7801\u7bb1\u884c\u674e\u7bb1\u5973\u76ae\u7bb1","yongjin_type":"3","quan_id":"4a1f7e69c2fc4e83bbff14a2e1936f56","quan_time":"2018-08-21 23:59:59","quan_num":"93000","quan_over":"7000","d_title":"\u7490\u601d\u8fea\u94dd\u6846\u62c9\u6746\u7bb1\u4e07\u5411\u8f6e24\u5bf8\u65c5\u884c","yuanjia":"328.00","goodsid":"525880981612","pic":"https:\/\/img.alicdn.com\/imgextra\/i1\/2178768678\/TB21Y_0esPRfKJjSZFOXXbKEVXa_!!2178768678.jpg","yongjin_jihua":"20.00","zhongfen":"0.00","jihua_link":"","xiaoliang":"4566","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"1","is_haitao":"0","quan_jine":"100.00","start_time":"2018-08-14 00:00:00","expend":null,"earning":"","jiage":"228.00","miaoshu":"\u590d\u53e4\u5de5\u827a\uff0c\u591a\u8272\u53ef\u9009\u52a0\u539a\u94dd\u5408\u91d1\uff0c\u76ae\u628a\u624b\u7ecf\u4e45\u8010\u7528\uff0c\u4fdd\u4fee\u7ec8\u8eab\uff0c\u987a\u4e30\u5305\u90ae\uff0c\u7ec8\u8eab\u4fdd\u4fee\uff01\u3010\u8d60\u8fd0\u8d39\u9669\u3011","o_sort":"99999"},{"mid":"6369","id":"15954872","title":"\u5361\u5e1d\u4e50\u9cc4\u9c7c\u65c5\u884c\u7bb1\u7537\u5973\u5b66\u751f\u5bc6\u7801\u62c9\u6746\u7bb1\u4e07\u5411\u8f6e24\u5bf8\u767b\u673a\u76ae\u7bb1\u5b50\u884c\u674e\u7bb1","yongjin_type":"3","quan_id":"68a098fb9dc942a98d6eec56413c5417","quan_time":"2018-08-17 23:59:59","quan_num":"52000","quan_over":"48000","d_title":"\u3010\u5361\u5e1d\u4e50\u9cc4\u9c7c\u3011\u9ad8\u54c1\u8d28\u65c5\u884c\u62c9\u6746\u7bb1","yuanjia":"139.00","goodsid":"569465429363","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/1111450609\/TB29jFMBx1YBuNjy1zcXXbNcXXa_!!1111450609.jpg","yongjin_jihua":"20.00","zhongfen":"0.00","jihua_link":"","xiaoliang":"43324","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"1","is_haitao":"0","quan_jine":"50.00","start_time":"2018-08-15 07:35:00","expend":null,"earning":"","jiage":"89.00","miaoshu":"\u65c5\u884c\u3001\u5f00\u5b66\u5fc5\u5907\uff0c\u8d85\u5927\u7a7a\u95f4\uff0c\u591f\u4f60\u88c5~\u3010\u987a\u4e30\u5305\u90ae\u3011\u5927\u724c\u9ad8\u54c1\u8d28\u62c9\u6746\u7bb1\uff0c\u575a\u97e7\u8010\u78e8\u9632\u6c34\u9632\u522e\uff0c360\u5ea6\u4e07\u5411\u8f6e\uff0c\u9759\u97f3\u8fc5\u901f\u6ed1\u8f6e\uff0c\u9632\u76d7\u5bc6\u7801\u9501\uff0c\u7279\u6b8a\u5de5\u827a\u7ecf\u4e45\u8010\u6454\uff0c\u67d4\u97e7\u6027\u5341\u8db3\u7ecf\u4e45\u8010\u7528\uff0c\u5927\u6c14\u7f8e\u89c2~\u3010\u8d60\u9001\u8fd0\u8d39\u9669\u3011","o_sort":"99999"},{"mid":"6369","id":"15933538","title":"\u9996\u9c9c\u9053\u9ebb\u8fa3\u5c0f\u9f99\u867e3\u65a4\u88c5\u719f\u98df\u9999\u8fa3\u53e3\u5473\u5927\u867e20-26\u9c9c\u6d3b\u52a0\u70ed\u5373\u98df","yongjin_type":"3","quan_id":"8a19019cd45942f7a1d8d5b8fc46a8e1","quan_time":"2018-08-19 23:59:59","quan_num":"8200","quan_over":"1800","d_title":"\u9996\u9c9c\u5230\u9c9c\u6d3b\u52a0\u70ed\u5373\u98df3\u65a4\u88c5\u9ebb\u5c0f\u9f99\u867e","yuanjia":"118.00","goodsid":"549458904489","pic":"https:\/\/img.alicdn.com\/imgextra\/i1\/2633000169\/TB27YFEpTdYBeNkSmLyXXXfnVXa_!!2633000169.jpg","yongjin_jihua":"21.00","zhongfen":"0.00","jihua_link":null,"xiaoliang":"617","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"0","is_haitao":"0","quan_jine":"50.00","start_time":"2018-08-13 16:49:08","expend":null,"earning":"https:\/\/s.click.taobao.com\/XJKOmNw","jiage":"68.00","miaoshu":"\u987a\u4e30\u5305\u90ae\u9ebb\u8fa3\u9999\u8fa3\u548c\u5341\u4e09\u9999\u5473\u5c0f\u9f99\u867e\u6d3b\u867e\u70e7\u5236\u4e2a\u5927\u4f53\u80a5\uff0c\u5473\u9053\u597d\uff0c\u5403\u4e86\u8fd8\u8981\u56de\u8d2d\u7684\u7f8e\u5473\uff0c\u8272\u6cfd\u7ea2\u8273\u8273\uff0c\u8bf1\u4eba\uff0c\u53e3\u9f7f\u7559\u9999","o_sort":"99999"}],"template":null,"goods_num":"0","single_margin_right":"0","single_margin_bottom":"0","app_threshold":null,"title_link":"\/tao?r=l\/d&u=699973&id="},"6370":{"goods":[],"template":null,"goods_num":"0","single_margin_right":"0","single_margin_bottom":"0","app_threshold":null,"title_link":"\/tao?r=l\/d&u=699973&id="},"6371":{"goods":[{"mid":"6371","id":"15972015","title":"2018\u65b0\u6b3e\u7537\u58eb\u77ed\u88e4\u5957\u88c5\u793e\u4f1a\u5c0f\u4f19\u5957\u88c5\u7537\u8fd0\u52a8\u670d\u590f\u5b63\u77ed\u8896T\u6064\u4f11\u95f2\u7537\u88c5","yongjin_type":"3","quan_id":"27e1b87566b740a79d2755b9935dd048","quan_time":"2018-08-21 23:59:59","quan_num":"17492","quan_over":"2508","d_title":"\u82b1\u82b1\u516c\u5b50\u7537\u58eb\u77ed\u8896+\u77ed\u88e4\u5b50\u4f11\u95f2\u8fd0\u52a8\u5957\u88c5\u7537\u88c5","yuanjia":"168.00","goodsid":"566472280897","pic":"https:\/\/gd3.alicdn.com\/imgextra\/i2\/1707581338\/O1CN011LkqNtBuVfuC2L0_!!1707581338.jpg","yongjin_jihua":"20.00","zhongfen":"0.00","jihua_link":null,"xiaoliang":"749","huodong_type":"1","istmall":"0","jinpaimaijia":"0","yunfeixian":"0","is_haitao":"0","quan_jine":"100.00","start_time":"2018-08-16 10:31:17","expend":null,"earning":null,"jiage":"68.00","miaoshu":"\u82b1\u82b1\u516c\u5b50\u8fd0\u52a8\u5957\u88c5\uff0cpolo\u886b\u77ed\u8896+\u4f11\u95f2\u77ed\u88e4\uff0c\u5706\u9886\u5927\u7801\u8584\u6b3e\u8fd0\u52a8\u88c5\u4e24\u4ef6\u5957\uff0c\u8212\u9002\u8010\u78e8\u900f\u6c14\u6027\u597d\uff0c\u591a\u79cd\u989c\u8272\u3010\u9001\u8fd0\u8d39\u9669\u3011","o_sort":"1"},{"mid":"6371","id":"15971718","title":"2018\u65b0\u6b3e\u9632\u6652\u8863\u901f\u5e72\u8fd0\u52a8\u670d\u8d85\u8584\u5916\u5957\u97e9\u7248\u900f\u6c14\u590f\u5b63\u7d2b\u5916\u7ebf\u9632\u6652","yongjin_type":"3","quan_id":"93e1ccfdcbff4bd2862d320c776c8df3","quan_time":"2018-08-22 23:59:59","quan_num":"9978","quan_over":"22","d_title":"\u5bcc\u8d35\u9e1f\u9632\u6652\u8863\u901f\u5e72\u8fd0\u52a8\u670d\u8d85\u900f\u6c14\u590f\u5b63\u9632\u7d2b\u5916\u7ebf","yuanjia":"259.00","goodsid":"567408820435","pic":"https:\/\/gd3.alicdn.com\/imgextra\/i3\/136013298\/TB2aMbqc0knBKNjSZKPXXX6OFXa_!!136013298.jpg","yongjin_jihua":"20.00","zhongfen":"0.00","jihua_link":"","xiaoliang":"418","huodong_type":"1","istmall":"0","jinpaimaijia":"0","yunfeixian":"0","is_haitao":"0","quan_jine":"200.00","start_time":"2018-08-16 10:18:12","expend":null,"earning":"","jiage":"59.00","miaoshu":"\u5bcc\u8d35\u9e1f\u5b98\u65b9\u5e97\u94fa\uff0c\u4e00\u6b3e\u5c0f\u6e05\u65b0\u7684\u9632\u6652\u901f\u5e72\u8863\uff0c\u96c6\u4f11\u95f2\u548c\u8fd0\u52a8\u4e8e\u4e00\u4f53\u7684\u4e00\u6b3e\u5939\u514b\uff0c\u6297\u7d2b\u5916\u7ebf\uff0c\u900f\u6c14\u8212\u9002\uff0c\u6b63\u54c1\u6388\u6743\uff0c\u8f7b\u8584\u9762\u6599\uff0c\u5177\u6709\u6297\u6495\u88c2\u6027\uff0c\u4fee\u8eab\u7248\u578b\uff0c\u65f6\u5c1a\u5e05\u6c14\uff0c\u591a\u8272\u53ef\u9009\uff0c\u8d60\u9001\u8fd0\u8d39\u9669","o_sort":"2"},{"mid":"6371","id":"15982465","title":"\u6625\u5b63\u65b0\u6b3e\u5939\u514b\u7537\u58eb\u4fee\u8eab\u4f11\u95f2\u6f6e\u6d41\u65f6\u5c1a\u9752\u5e74\u5c0f\u4f19\u7acb\u9886\u5916\u5957\u5927\u5b66\u751f\u6f6e","yongjin_type":"3","quan_id":"7b070179c9a74fd792a6d0942c04a79c","quan_time":"2018-08-22 23:59:59","quan_num":"6000","quan_over":"0","d_title":"\u7537\u5b66\u751f\u8584\u6b3e\u5939\u514b\u886b\u5916\u5957\u68d2\u7403\u670d\u3010\u9001\u8fd0\u8d39\u9669\u3011","yuanjia":"89.00","goodsid":"558402684530","pic":"https:\/\/img.alicdn.com\/imgextra\/i3\/82008729\/TB2ixMwnyMnBKNjSZFoXXbOSFXa_!!82008729.jpg","yongjin_jihua":"20.00","zhongfen":"0.00","jihua_link":"","xiaoliang":"83","huodong_type":"1","istmall":"0","jinpaimaijia":"0","yunfeixian":"0","is_haitao":"0","quan_jine":"20.00","start_time":"2018-08-17 00:49:41","expend":null,"earning":"","jiage":"69.00","miaoshu":"\u8212\u9002\u8010\u78e8\uff0c\u4eb2\u80a4\u900f\u6c14\uff0c\u65f6\u5c1a\u6f6e\u6d41\uff0c\u4fee\u8eab\u5e05\u6c14\uff0c\u9a7b\u8db3\u7ec6\u8282\uff0c\u6253\u9020\u5353\u8d8a\u54c1\u8d28\uff0c\u7a7f\u51fa\u7537\u795e\u8303\uff01\u3010\u8d60\u8fd0\u8d39\u9669\u3011","o_sort":"3"},{"mid":"6371","id":"15957092","title":"\u7279\u6b65\u7537\u978b2018\u590f\u5b63\u65b0\u6b3e\u8fd0\u52a8\u978b\u7537\u5b66\u751f\u7f51\u9762\u5065\u8eab\u8dd1\u6b65\u978b\u900f\u6c14\u4f11\u95f2\u8dd1\u978b\u5b50","yongjin_type":"3","quan_id":"f9b0f6df07e84f0bb263458948c77339","quan_time":"2018-08-21 23:59:59","quan_num":"49448","quan_over":"552","d_title":"\u3010\u7279\u6b65\u3011\u7537\u900f\u6c14\u7f51\u9762\u8dd1\u6b65\u8fd0\u52a8\u978b","yuanjia":"169.00","goodsid":"564803664511","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/2063377605\/TB2QREryIyYBuNkSnfoXXcWgVXa_!!2063377605.jpg","yongjin_jihua":"30.01","zhongfen":"0.00","jihua_link":null,"xiaoliang":"8034","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"1","is_haitao":"0","quan_jine":"40.00","start_time":"2018-08-15 10:01:59","expend":null,"earning":null,"jiage":"129.00","miaoshu":"\u54cd\u5e94\uff0c\u8d34\u5408\u5305\u88f9\uff0c\u5206\u6563\u538b\u529b\uff0c\u589e\u5f3a\u7a33\u5b9a\u6027\u652f\u6491\u6027\uff0c\u591a\u6b3e\u53ef\u9009\uff0c\u64ce\u98ce\u8f7b\u8dd1\uff0c\u4e91\u9704\u6f2b\u6b65~\u3010\u8d60\u8fd0\u8d39\u9669\u3011","o_sort":"5"},{"mid":"6371","id":"15957176","title":"\u8054\u521b\u53ef\u5145\u7535LED\u53f0\u706f\u62a4\u773c\u4e66\u684c\u5927\u5b66\u751f\u5c0f\u5b66\u751f\u5367\u5ba4\u5e8a\u5934\u5199\u5b57\u5b66\u4e60\u7528\u513f\u7ae5","yongjin_type":"3","quan_id":"74ea7b60108b410aae70d6427012adcb","quan_time":"2018-08-19 23:59:59","quan_num":"8500","quan_over":"1500","d_title":"\u3010\u8054\u521b\u3011\u53ef\u5145\u7535LED\u62a4\u773c\u53f0\u706f","yuanjia":"59.00","goodsid":"547529977397","pic":"\/\/img.alicdn.com\/imgextra\/i3\/1742845922\/TB260ZUFf5TBuNjSspmXXaDRVXa_!!1742845922.jpg","yongjin_jihua":"30.00","zhongfen":"0.00","jihua_link":null,"xiaoliang":"959","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"1","is_haitao":"0","quan_jine":"40.00","start_time":"2018-08-15 10:04:56","expend":null,"earning":null,"jiage":"19.00","miaoshu":"4.9\u5206\u597d\u8bc4\u3002\u53ef\u5145\u7535\uff0c\u53ef\u63d2\u7ebf\u4f7f\u7528\uff0c1200\u6beb\u5b89\u5927\u5bb9\u91cf\u3002\u65e0\u9891\u95ea\uff0c\u9632\u84dd\u5149\uff0c\u4fdd\u62a4\u89c6\u529b\uff1b\u663e\u8272\u5ea6\u9ad8\uff0c\u8fd8\u539f\u771f\u5b9e\u8272\u5f69\u3002\u5bff\u547d\u957f\uff0c\u8010\u7528\u8870\u51cf\u6162\uff1b\u4fbf\u643a\u65b9\u4fbf\uff0c\u4e09\u6863\u8c03\u5149\u3002\u6839\u636e\u81ea\u5df1\u7684\u9700\u6c42\u8c03\u8282\u3010\u8d60\u8fd0\u8d39\u9669\u3011","o_sort":"7"},{"mid":"6371","id":"15939820","title":"\u3010\u5929\u5929\u7279\u4ef7\u301110\u94ed\u8299\u53d1\u5eca\u5927\u98ce\u529b\u5439\u98ce\u673a\u84dd\u5149\u98d8\u9999\u5bb6\u7528\u7535\u5439\u98ce\u8d60\u8fd0\u8d39\u9669","yongjin_type":"3","quan_id":"7348cda756e44846aab7ad7d4c5b0346","quan_time":"2018-08-21 23:59:59","quan_num":"4957","quan_over":"43","d_title":"\u4e70\u4e00\u9001\u516b\u5927\u98ce\u529b\u5439\u98ce\u673a\u84dd\u5149\u98d8\u9999\u5bb6\u7528","yuanjia":"49.90","goodsid":"531284765561","pic":"https:\/\/gd1.alicdn.com\/imgextra\/i1\/722402394\/TB2v9Bfc.vMR1JjSZPcXXc1tFXa_!!722402394.jpg","yongjin_jihua":"20.00","zhongfen":"0.00","jihua_link":null,"xiaoliang":"126","huodong_type":"1","istmall":"0","jinpaimaijia":"0","yunfeixian":"0","is_haitao":"0","quan_jine":"20.00","start_time":"2018-08-14 07:31:03","expend":null,"earning":null,"jiage":"29.90","miaoshu":"\u4e13\u4e1a\u5439\u98ce\u673a\uff0c\u5439\u65f6\u5c1a\u53d1\u578b\uff0c\u84dd\u5149\u6c34\u6da6\u62a4\u6cd5\uff0c\u70ed\u91cf\u5747\u5300\uff0c\u98ce\u6e29\u7a33\u5b9a\uff0c\u7075\u654f\u8010\u7528\uff0c\u5728\u5e72\u53d1\u8fc7\u7a0b\u4e2d\u9501\u4f4f\u6c34\u5206\uff0c\u4fdd\u62a4\u79c0\u53d1\uff0c\u6ecb\u6da6\u79c0\u53d1\u4e0d\u53d7\u635f\u4f24\u3010\u8d60\u8fd0\u8d39\u9669\u3011\uff01\u4e70\u4e00\u9001\u516b\uff01\uff01\uff01","o_sort":"8"},{"mid":"6371","id":"15957546","title":"BPUMP\u90a6\u666e\u8840\u538b\u6d4b\u91cf\u4eea\u5bb6\u7528\u4e0a\u81c2\u5f0f\u8bed\u97f3\u5168\u81ea\u52a8\u8001\u4eba\u667a\u80fd\u7535\u5b50\u8840\u538b\u8ba1","yongjin_type":"3","quan_id":"3604150604144f5ca7c5cd8e1ba05a27","quan_time":"2018-08-21 23:59:59","quan_num":"4899","quan_over":"101","d_title":"\u90a6\u666e\u5bb6\u7528\u5168\u81ea\u52a8\u8bed\u97f3\u8840\u538b\u6d4b\u91cf\u4eea","yuanjia":"179.00","goodsid":"533876606480","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/678275524\/TB2eyuvsTdYBeNkSmLyXXXfnVXa_!!678275524.jpg","yongjin_jihua":"20.00","zhongfen":"0.00","jihua_link":null,"xiaoliang":"151","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"1","is_haitao":"0","quan_jine":"100.00","start_time":"2018-08-15 10:20:04","expend":null,"earning":null,"jiage":"79.00","miaoshu":"\u6b27\u76dfCE\u8ba4\u8bc1\uff0c\u7f8eFDA\u8ba4\u8bc1\uff0c\u51fa\u53e3\u54c1\u8d28\uff0c\u667a\u80fd\u5236\u9020\uff0c\u51c6\u786e\u5ea6\u9ad8\uff0c\u968f\u65f6\u968f\u5730\u638c\u63e1\u81ea\u5df1\u7684\u5065\u5eb7\uff0c\u5bb6\u4e2d\u5fc5\u5907\u54e6\uff01\u3010\u8d60\u8fd0\u8d39\u9669\u3011","o_sort":"9"},{"mid":"6371","id":"15939938","title":"\u957f\u8679\u7535\u71a8\u6597\u5bb6\u7528\u84b8\u6c7d\u71a8\u6597\u624b\u6301\u5f0f\u8ff7\u4f60\u6302\u70eb\u673a\u71a8\u6597\u7535\u70eb\u6597\u5c0f\u578b\u71a8\u70eb\u8863\u670d","yongjin_type":"3","quan_id":"ceddbd289b8644b1b980bf782bbf6830","quan_time":"2018-08-21 23:59:59","quan_num":"8800","quan_over":"1200","d_title":"\u3010\u957f\u8679\u3011\u5bb6\u7528\u4fbf\u643a\u5f0f\u624b\u6301\u84b8\u6c7d\u71a8\u6597\u70eb","yuanjia":"59.00","goodsid":"548150621573","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/3172232264\/TB291gamNhmpuFjSZFyXXcLdFXa_!!3172232264.jpg","yongjin_jihua":"20.00","zhongfen":"0.00","jihua_link":null,"xiaoliang":"19070","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"0","is_haitao":"0","quan_jine":"20.00","start_time":"2018-08-14 08:28:07","expend":null,"earning":null,"jiage":"39.00","miaoshu":"\u957f\u8679\u624b\u6301\u84b8\u6c7d\u71a8\u6597\uff0c\u70eb\u9676\u74f7\u5e95\u677f\uff0c\u4e94\u6863\u8c03\u6e29\uff0c\u7206\u70b8\u84b8\u6c7d\uff0c\u5feb\u901f\u9664\u76b1\u3010\u8d60\u9001\u8fd0\u8d39\u9669\u3011","o_sort":"10"},{"mid":"6371","id":"15930794","title":"\u5377\u7eb848\u5377\u672c\u8272\u7eb8\u6574\u7bb1\u7af9\u6d46\u7eb8\u70ed\u5356\u536b\u751f\u7eb8\u65e0\u82af\u5377\u5bb6\u7528\u5395\u7eb8\u624b\u7eb8\u7b52\u7eb8\u6279\u53d1","yongjin_type":"3","quan_id":"a352055ee0684a9b9d83ee1f9ba79663","quan_time":"2018-08-19 23:59:59","quan_num":"9600","quan_over":"400","d_title":"\u7af9\u6d46\u672c\u8272\u7eb848\u5377\u52a0\u539a\u9001\u8fd0\u8d39\u9669","yuanjia":"54.90","goodsid":"558329220173","pic":"https:\/\/img.alicdn.com\/imgextra\/i4\/2918359969\/TB2jJ5sfIUrBKNjSZPxXXX00pXa_!!2918359969.jpg","yongjin_jihua":"20.00","zhongfen":"0.00","jihua_link":null,"xiaoliang":"832","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"1","is_haitao":"0","quan_jine":"15.00","start_time":"2018-08-13 14:43:59","expend":null,"earning":null,"jiage":"39.90","miaoshu":"\u5bb6\u7528\u5395\u7eb8\u624b\u7eb8\u7b52\u7eb8\u6279\u53d1\uff0c\u7af9\u6d46\u7eb8\u65e5\u671f\u65b0\u9c9c\u6b63\u54c1\u4fdd\u8bc14\u63d0\u517148\u5377\u6bcd\u5a74\u9002\u7528\uff0c\u5f00\u542f\u751f\u6d3b\u7528\u7eb8\u5f20\u65b0\u7bc7\u7ae0\uff01","o_sort":"11"},{"mid":"6371","id":"15971710","title":"\u6c7d\u8f66\u6536\u7eb3\u7bb1\u540e\u5907\u7bb1\u50a8\u7269\u7bb1\u8f66\u5185\u7f6e\u7269\u76d2\u521b\u610f\u6c7d\u8f66\u7528\u54c1\u8f66\u8f7d\u7f6e\u7269\u7bb1\u6574\u7406\u7bb1","yongjin_type":"3","quan_id":"8ea1ad8011b449c4b7cef3d26fc5f02e","quan_time":"2018-08-18 23:59:59","quan_num":"9800","quan_over":"200","d_title":"\u6c7d\u8f66\u540e\u5907\u7bb1\u6574\u7406\u7bb1\u591a\u529f\u80fd\u7f6e\u7269\u7bb1","yuanjia":"23.00","goodsid":"523120367643","pic":"https:\/\/img.alicdn.com\/imgextra\/i1\/1600336420\/TB2N5vMnNtmpuFjSZFqXXbHFpXa_!!1600336420.jpg","yongjin_jihua":"20.00","zhongfen":"0.00","jihua_link":null,"xiaoliang":"9200","huodong_type":"1","istmall":"1","jinpaimaijia":"0","yunfeixian":"1","is_haitao":"0","quan_jine":"3.00","start_time":"2018-08-16 10:17:42","expend":null,"earning":null,"jiage":"20.00","miaoshu":"\u3010\u5929\u732b\u54c1\u8d28\u3011\u6c7d\u8f66\u540e\u80cc\u50a8\u7269\u7bb1\uff0c\u8d85\u5927\u5bb9\u91cf\u6536\u7eb3\uff0c\u52a0\u539a\u677f\u6750\uff0c\u4fbf\u6377\u6536\u7eb3\uff0c\u968f\u610f\u6298\u53e0\uff0c\u4e0d\u55b7\u80f6\u65e0\u7532\u919b\uff0c\u73af\u4fdd\u65e0\u5473\uff0c\u5065\u5eb7\u6750\u8d28\u3010\u8d60\u8fd0\u8d39\u9669\u3011","o_sort":"12"},{"mid":"6371","id":"15954739","title":"18\u6e2f\u98ce\u77ed\u8896T\u6064\u7537\u97e9\u7248\u6f6e\u5b66\u751f\u6761\u7eb9\u5bbd\u677e\u4e2a\u6027\u65e5\u7cfb\u5c0f\u6e05\u65b0\u6f6e\u6d41\u4f11\u95f2\u77ed\u8896","yongjin_type":"3","quan_id":"a841861b52724c559d621d67f2d10bc8","quan_time":"2018-08-20 23:59:59","quan_num":"5910","quan_over":"90","d_title":"\u7537\u9752\u5e74\u5b66\u751f\u6e2f\u98ce\u6761\u7eb9\u5bbd\u677e\u77ed\u8896T\u6064\u9001\u8fd0\u8d39\u9669","yuanjia":"69.00","goodsid":"567657399621","pic":"https:\/\/img.alicdn.com\/imgextra\/i2\/82008729\/TB2cGEkyx9YBuNjy0FfXXXIsVXa_!!82008729.jpg","yongjin_jihua":"20.05","zhongfen":"0.00","jihua_link":null,"xiaoliang":"103","huodong_type":"1","istmall":"0","jinpaimaijia":"0","yunfeixian":"0","is_haitao":"0","quan_jine":"20.00","start_time":"2018-08-15 01:22:07","expend":null,"earning":"","jiage":"49.00","miaoshu":"2018\u590f\u6f6e\u6d41\u65b0\u6b3e\uff0c\u5706\u9886\u5bbd\u677eT\u6064\uff0c\u7248\u578b\u7acb\u4f53\uff0c\u8d85\u6709\u8303\uff0c\u4f18\u8d28\u5f39\u529b\u68c9\u9762\u6599\uff0c\u4e0d\u8d77\u7403\u4e0d\u892a\u8272\uff0c\u67d4\u8f6f\u4eb2\u80a4\uff0c\u5e72\u723d\u900f\u6c14\uff0c\u54c1\u8d28\u4fdd\u969c\uff01\u3010\u8d60\u8fd0\u8d39\u9669\u3011","o_sort":"99999"}],"template":null,"goods_num":"0","single_margin_right":"0","single_margin_bottom":"0","app_threshold":null,"title_link":"\/tao?r=l\/d&u=699973&id="},"6415":{"goods":[],"template":null,"goods_num":"0","single_margin_right":"0","single_margin_bottom":"0","app_threshold":null,"title_link":"\/tao?r=l\/d&u=699973&id="},"6372":{"goods":[],"template":null,"goods_num":"0","single_margin_right":"0","single_margin_bottom":"0","app_threshold":null,"title_link":"\/tao?r=l\/d&u=699973&id="},"6412":{"goods":[],"template":null,"goods_num":"0","single_margin_right":"0","single_margin_bottom":"0","app_threshold":null,"title_link":"\/tao?r=l\/d&u=699973&id="}};
+    var var_tid = 'xc-dtk-cms-699973';
+    var var_ds = 'web';
+    var var_zid = '655';
+    var var_in = '1';
+    var entrance = '/tao';
+</script>
+
+</div>
+
+<div id="footer" class="theme-border-top-color-1" style="background-color: #373737;padding-bottom: 30px;width: 100%;border-top: 3px solid #ff3366;">
+    <div class="footer-wrapper " style="width: 1200px;margin: 0 auto;position: relative;text-align: center">
+        <div class="bt">
+            “感谢有你，我们的坚持才更有意义”
+        </div>
+        <div class="author" style="    position: absolute;
+    top: 67px;
+    left: 990px;
+    color: #FFFFFF;
+    font-size: 18px;">by &nbsp;&nbsp;扣扣萌店</div>
+        <div class="text" style="color: #a2a2a2; font-size: 16px; margin-top: 33px;">
+            &copy; CopyRight&nbsp;2018            &nbsp;
+            <a href="http://xdyl.520xsy.cn" target="_blank" rel="nofollow" style="color:#a2a2a2;">
+                扣扣萌店            </a>
+            &nbsp;http://jiexi.monocon.com.cn&nbsp;&nbsp;
+            <a class="miitbeian" href="http://www.miitbeian.gov.cn/" target="_blank" rel="nofollow" style="color:#a2a2a2;">
+                辽ICP备14017653号-18            </a>
+            &nbsp;&nbsp;                <a target="_blank" class="footer_service" href="http://wpa.qq.com/msgrd?v=3&uin=21013146&site=qq&menu=yes" style="color: #8da7cb" title="联系我帮你解答">^_^亲遇到问题，联系我帮你处理哈</a>
+            
+            <p style="text-algin:center;margin-top:30px;"></p>
+        </div>
+    </div>
+</div>
+
+<div class="toTop" style="display: none" onclick=" $('body,html').animate({scrollTop:0},1000);"> &#xe6a4;</div>
+
+
+<script type="text/javascript">
+
+        // 设置为主页
+    function SetHome(obj, vrl) {
+        try {
+            obj.style.behavior = 'url(#default#homepage)';
+            obj.setHomePage(vrl);
+        }
+        catch (e) {
+            if (window.netscape) {
+                try {
+                    netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                }
+                catch (e) {
+                    alert("此操作被浏览器拒绝！\n请在浏览器地址栏输入“about:config”并回车\n然后将 [signed.applets.codebase_principal_support]的值设置为'true',双击即可。");
+                }
+                var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+                prefs.setCharPref('browser.startup.homepage', vrl);
+            } else {
+                alert("您的浏览器不支持，请按照下面步骤操作：1.打开浏览器设置。2.点击设置首页。3.输入：" + vrl + "点击确定。");
+            }
+        }
+    }
+    // 加入收藏 兼容360和IE6
+    function shoucang(sTitle, sURL) {
+        try {
+            window.external.addFavorite(sURL, sTitle);
+        }
+        catch (e) {
+            try {
+                window.sidebar.addPanel(sTitle, sURL, "");
+            }
+            catch (e) {
+                alert("加入收藏失败，请使用Ctrl+D进行添加");
+            }
+        }
+    }
+
+    var ok = '';
+    $(function () {
+        $('#search button').click(function () {
+            if($('#search input[name="kw"]').val().length > 30){
+                layer.msg("您搜索的关键词过长！",{
+                    timer: 2500
+                });
+                return false;
+            }
+        });
+        $(window).scroll(function () {
+            if ($(window).scrollTop() > 500) {
+                $(".toTop").fadeIn(1000);
+            }
+            else {
+                $(".toTop").fadeOut(1000);
+            }
+        });
+    });
+
+    $(window).scroll(function(){
+
+        var _scroll = $(window).scrollTop();
+
+        if(_scroll>130){
+            $(".floatNav").fadeIn();
+            $('.floatNav .fn-block').width(1200-$(".fn-left").width()-47);
+            $('.floatNav .fn-block .my-src-input').width(1200-$(".fn-left").width()-147);
+            $('.floatNav .w_1200 .search-land').width(1200-$(".fn-left").width()-50)
+            $('.search-land').eq(0).fadeOut();
+        }else{
+            $(".floatNav").fadeOut();
+        }
+
+    });
+
+    //候选词
+    var bind_name = 'input';
+    if (navigator.userAgent.indexOf("MSIE") != -1){
+        bind_name = 'propertychange';
+    }
+
+
+    function searchAjax(scope){
+        var _this = scope.parent().parent();
+        var _cur =scope;
+        var landIndex = _this.find('.search-land li.active').length > 0 ? _this.find('.search-land li.active').index() : 0;
+
+        if(event.keyCode == 40){
+            landIndex = _this.find('.search-land li.active').length ? landIndex + 1 : 0;
+            landIndex = landIndex > _this.find('.search-land li').length-1 ? 0 : landIndex;
+            _this.find('.search-land li').removeClass('active');
+            _this.find('.search-land').find("li:eq("+(landIndex)+")").addClass("active");
+            scope.val(_this.find('.search-land li.active').html());
+            return false;
+        }
+        if(event.keyCode == 38){
+            landIndex =  _this.find('.search-land li.active').length ? landIndex - 1 : _this.find('.search-land li').length-1;
+            landIndex = landIndex < 0 ? _this.find('.search-land li').length-1 : landIndex;
+            _this.find('.search-land li').removeClass('active');
+            _this.find('.search-land').find("li:eq("+(landIndex)+")").addClass("active");
+            scope.val(_this.find('.search-land li.active').html());
+            return false;
+        }
+
+        const _sl = scope.parents('form').siblings('.search-land');
+        const _value = scope.val();
+        var content = "";
+        content = _value.replace(/\s+/g, "");
+        if(content.length == 0){
+            $('.src-close-btn').hide();
+            _sl.hide();
+        }else{
+            $('.src-close-btn').show();
+        }
+
+        var _url = "/tao/index.php?r=index/kwarr";
+
+        $.ajax({
+            url: _url,
+            type: 'get',
+            dataType: 'json',
+            data: {
+                kw: _value
+            },
+            success: function (data) {
+                if (data.status == '1') {
+                    if(data.data.length == 0 ){
+                    }else{
+                        _cur.parent('form').siblings('.search-land').show();
+                        _cur.parent('form').siblings('.search-land').find('li').each(function(i){
+                            if(i>data.data.length-1){
+                                _cur.parent('form').siblings('.search-land').find('li').eq(i).hide();
+                            }else{
+                                if(scope.val()==''){
+                                }else{
+                                    _cur.parent('form').siblings('.search-land').find('li').eq(i).show().text(data.data[i]);
+                                }
+                            }
+                        });
+                    }
+
+                }else{
+                }
+                const _value = _cur.val();
+                var content = "";
+                content = _value.replace(/\s+/g, "");
+                if(content.length == 0){
+                    $('.src-close-btn').hide();
+                    _sl.hide();
+                }else{
+                    $('.src-close-btn').show();
+                }
+            }
+        })
+    }
+
+    //搜索框点击键盘 事件
+    $(".my-src-input").focus(function(){
+        jQuery.fn.isChildAndSelfOf = function(b){
+            return (this.closest(b).length > 0);
+        };
+        var _this = $(this).parent().parent();
+        $("body").unbind("click").on("click",function(event){
+            if(!$(event.target).isChildAndSelfOf(_this)){
+                $(".search-land").hide();
+            }
+        });
+        searchAjax($(this));
+    }).keyup(function(event){
+        searchAjax($(this));
+        if($(this).val()==''){
+            $(this).parent('form').siblings('.search-land').find('li').text('');
+        }
+    });
+
+    $(".search-land").on('click','li',function(){
+        $(".my-src-input").val($(this).text());
+        $('.my-src-btn').trigger('click');
+    });
+    $(".search-land").on('click','p',function(){
+        $(".search-land").hide();
+    });
+
+    $('.src-close-btn').click(function(){
+        $('.src-close-btn').hide();
+        $('.search-land').hide();
+        if($(".my-src-input").attr('value')==''){
+            $(".my-src-input").val('');
+        }else{
+            $(".my-src-input").val('').attr('placeholder','请输入要搜索的词');
+        }
+
+    });
+
+    var kw_url = "/tao?r=l&kw=%E6%9C%88%E9%A5%BC";
+
+    $('#search button').on('click',function(){
+        var _this = $(this);
+        if($(this).siblings('input[name="kw"]').val()==''&& kw_url != ""){
+            window.location.href=$("#m_url").val();
+            return false;
+        }else{
+            _this.parents('form').attr('action',$("#h_url").val())
+        }
+    })
+
+    $('.floatNav .srcBtn').on('click',function(){
+        var _this = $(this);
+        if($('input[name="kw"]').val()==''&& kw_url != "" ){
+            window.location.href=$("#m_url").val();
+            return false;
+        }else{
+            _this.parents('form').attr('action',$("#h_url").val())
+        }
+    });
+</script>
+
+        <script>
+            var _mtac= {"performanceMonitor":1,"senseQuery":1};     
+            (function() { 
+                var mta=document.createElement("script"); 
+                mta.src="//pingjs.qq.com/h5/stats.js?v2.0.4"; 
+                mta.setAttribute("name", "MTAH5");
+                /*mta.setAttribute("sid", "500628441");
+                mta.setAttribute("cid", "500628444");*/
+                mta.setAttribute("sid", "500626642");
+                mta.setAttribute("cid", "500626643");
+
+                var s=document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(mta, s);     
+            })(); 
+        </script>
+        <script src="http://cmsstatic.dataoke.com//wap_new/lib/md5.js?v=201808091807"></script>
+<script type="text/javascript" src="http://cmsstatic.dataoke.com//js/scrollTop2.js?v=201808091807"></script>
+</body>
+</html>
+";}

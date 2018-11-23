@@ -1,0 +1,131 @@
+<div class="page-title">
+
+    <div class="title-env">
+        <h1 class="title">系统设置</h1>
+    </div>
+
+    <div class="breadcrumb-env">
+
+        <ol class="breadcrumb bc-1">
+            <li>
+                <a href="{:url('/')}"><i class="fa-home"></i>Home</a>
+            </li>
+
+            <li class="active">
+
+                <strong>System</strong>
+            </li>
+        </ol>
+
+    </div>
+
+</div>
+<div class="panel panel-default">
+
+
+    <div class="panel-body">
+
+        <form role="form" id="form1" method="post" action="{:url('vip/advert')}" class="validate">
+            <div class="form-group">
+                <label class="control-labell" for="field-5">公告</label>
+                <textarea class="form-control" name="advert" cols="5" id="field-5" style="margin: 0px -33.5px 0px 0px; width: 1232px; height: 216px;">{:advert('1')}</textarea>
+            </div>
+			  <div class="form-group">
+                <label class="control-labell" for="field-5">APP公告</label>
+                <textarea class="form-control" name="advert1" cols="5" id="field-5" style="margin: 0px -33.5px 0px 0px; width: 1232px; height: 216px;">{:advert('7')}</textarea>
+            </div>
+          	<div class="form-group">
+                <label class="control-labell" for="field-5">APP首页右上角跳转链接</label>
+                <input class="form-control" value="{:advert('13')}" name="hburl" >
+            </div>
+            <div class="form-group">
+                <label class="control-labell" for="field-5">APP首页底部图片url（http://开头）</label>
+                <input class="form-control" value="{:advert('2')}" name="down" >
+            </div>
+
+            <div class="form-group">
+                <label class="control-labell" for="field-5">APP首页底部图片跳转链接（http://开头）</label>
+                <input class="form-control" value="{:advert('3')}" name="pass" >
+            </div>
+          
+          
+          	<div class="form-group">
+                <label class="control-labell" for="field-5">发现页底部图片①url（http://开头）</label>
+                <input class="form-control" value="{:advert('14')}" name="fxpic1" >
+            </div>
+
+            <div class="form-group">
+                <label class="control-labell" for="field-5">发现页底部图片①跳转链接（http://开头）</label>
+                <input class="form-control" value="{:advert('15')}" name="fxurl1" >
+            </div>
+          
+          
+          	<div class="form-group">
+                <label class="control-labell" for="field-5">发现页底部图片②图片url（http://开头）</label>
+                <input class="form-control" value="{:advert('16')}" name="fxpic2" >
+            </div>
+
+            <div class="form-group">
+                <label class="control-labell" for="field-5">发现页底部图片②跳转链接（http://开头）</label>
+                <input class="form-control" value="{:advert('17')}" name="fxurl2" >
+            </div>
+          
+          
+			<div class="form-group">
+                <label class="control-labell" for="field-5">积分兑换（X积分一天）</label>
+                <input class="form-control" value="{:advert('4')}" name="sign" >
+            </div>
+				<div class="form-group">
+                <label class="control-labell" for="field-5">试用时间（分钟）</label>
+                <input type='number' class="form-control" value="{:advert('5')}" name="time" >
+            </div>
+			 </div>
+				<div class="form-group">
+                <label class="control-labell" for="field-5">解析接口地址/主线</label>
+                <input type='text' class="form-control" value="{:advert('6')}" name="ban" >
+            </div>
+				<div class="form-group">
+                <label class="control-labell" for="field-5">解析接口地址/备用1</label>
+                <input type='text' class="form-control" value="{:advert('8')}" name="geng" >
+            </div>
+			<div class="form-group">
+                <label class="control-labell" for="field-5">解析接口地址/备用2</label>
+                <input type='text' class="form-control" value="{:advert('9')}" name="geng2" >
+            </div>
+			<div class="form-group">
+                <label class="control-labell" for="field-5">解析接口地址/备用3</label>
+                <input type='text' class="form-control" value="{:advert('10')}" name="geng3" >
+            </div>
+			<div class="form-group">
+                <label class="control-labell" for="field-5">解析接口地址/备用4</label>
+                <input type='text' class="form-control" value="{:advert('11')}" name="geng4" >
+            </div>
+			<div class="form-group">
+                <label class="control-labell" for="field-5">解析接口地址/备用5</label>
+                <input type='text' class="form-control" value="{:advert('12')}" name="geng5" >
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-success">提交</button>
+                <button type="reset" class="btn btn-white">重置</button>
+            </div>
+
+        </form>
+
+    </div>
+
+</div>
+{$code=='1'?'<div class="col-md-6" id="alert" style="position:fixed;right:0px;bottom:0px;  width: 350px">
+    <div class="alert alert-success">
+        <button type="button" class="close" data-dismiss="alert">
+            <span aria-hidden="true">×</span>
+            <span class="sr-only">Close</span>
+        </button>
+
+        <strong>恭喜 !</strong> 修改成功.
+    </div>
+</div>
+
+':''}
+<script>
+    setTimeout("$('#alert').fadeOut(1000)",2000)
+</script>

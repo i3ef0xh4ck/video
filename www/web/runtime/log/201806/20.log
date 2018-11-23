@@ -1,0 +1,564 @@
+---------------------------------------------------------------
+[ 2018-06-20T21:33:06+08:00 ] 172.16.19.90 113.140.161.251 GET /login/login/banner.html
+[ info ] go.itlinux.cn/login/login/banner.html [运行时间：0.106365s][吞吐率：9.40req/s] [内存消耗：3,356.80kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/go.itlinux.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'login',
+    1 => 'login',
+    2 => 'banner',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'charset' => 'UTF-8',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1; MiBOX3_PRO Build/LMY47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36',
+  'connection' => 'Keep-Alive',
+  'accept-encoding' => 'gzip',
+  'host' => 'go.itlinux.cn',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\login\controller\Login->banner[ /www/wwwroot/go.itlinux.cn/application/login/controller/Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007009s ] mysql:dbname=tvbox;host=localhost;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ap_banner` [ RunTime:0.002657s ]
+[ sql ] [ SQL ] SELECT * FROM `ap_banner` [ RunTime:0.000809s ]
+---------------------------------------------------------------
+[ 2018-06-20T21:33:06+08:00 ] 172.16.19.90 113.140.161.251 GET /login/login/imgad.html
+[ info ] go.itlinux.cn/login/login/imgad.html [运行时间：0.085447s][吞吐率：11.70req/s] [内存消耗：3,362.45kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/go.itlinux.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'login',
+    1 => 'login',
+    2 => 'imgad',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'charset' => 'UTF-8',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1; MiBOX3_PRO Build/LMY47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36',
+  'connection' => 'Keep-Alive',
+  'accept-encoding' => 'gzip',
+  'host' => 'go.itlinux.cn',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\login\controller\Login->imgad[ /www/wwwroot/go.itlinux.cn/application/login/controller/Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002564s ] mysql:dbname=tvbox;host=localhost;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ap_advert` [ RunTime:0.001185s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000626s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.001198s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 14 LIMIT 1 [ RunTime:0.001262s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 15 LIMIT 1 [ RunTime:0.001053s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 16 LIMIT 1 [ RunTime:0.001470s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 17 LIMIT 1 [ RunTime:0.001118s ]
+---------------------------------------------------------------
+[ 2018-06-20T21:33:06+08:00 ] 172.16.19.90 113.140.161.251 GET /login/login/banben.html
+[ info ] go.itlinux.cn/login/login/banben.html [运行时间：0.097564s][吞吐率：10.25req/s] [内存消耗：3,364.77kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/go.itlinux.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'login',
+    1 => 'login',
+    2 => 'banben',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'charset' => 'UTF-8',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1; MiBOX3_PRO Build/LMY47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36',
+  'connection' => 'Keep-Alive',
+  'accept-encoding' => 'gzip',
+  'host' => 'go.itlinux.cn',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\login\controller\Login->banben[ /www/wwwroot/go.itlinux.cn/application/login/controller/Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000210s ] mysql:dbname=tvbox;host=localhost;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ap_advert` [ RunTime:0.001441s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 6 LIMIT 1 [ RunTime:0.000770s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 8 LIMIT 1 [ RunTime:0.001264s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 9 LIMIT 1 [ RunTime:0.000561s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 10 LIMIT 1 [ RunTime:0.001771s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.001445s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 12 LIMIT 1 [ RunTime:0.001203s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.001146s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000159s ]
+---------------------------------------------------------------
+[ 2018-06-20T21:33:06+08:00 ] 172.16.19.90 113.140.161.251 GET /login/login/tongji.html?os=android&imei=00%3A9e%3Ac8%3A8a%3A99%3Aa8&uid=0
+[ info ] go.itlinux.cn/login/login/tongji.html?os=android&imei=00%3A9e%3Ac8%3A8a%3A99%3Aa8&uid=0 [运行时间：0.121381s][吞吐率：8.24req/s] [内存消耗：3,358.16kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/go.itlinux.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'login',
+    1 => 'login',
+    2 => 'tongji',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'charset' => 'UTF-8',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1; MiBOX3_PRO Build/LMY47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36',
+  'connection' => 'Keep-Alive',
+  'accept-encoding' => 'gzip',
+  'host' => 'go.itlinux.cn',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'os' => 'android',
+  'imei' => '00:9e:c8:8a:99:a8',
+  'uid' => '0',
+)
+[ info ] [ RUN ] app\login\controller\Login->tongji[ /www/wwwroot/go.itlinux.cn/application/login/controller/Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011958s ] mysql:dbname=tvbox;host=localhost;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ap_tongji` [ RunTime:0.003666s ]
+[ sql ] [ SQL ] INSERT INTO `ap_tongji` (`os` , `imei` , `uid` , `time`) VALUES ('android' , '00:9e:c8:8a:99:a8' , 0 , '1529501586') [ RunTime:0.006099s ]
+---------------------------------------------------------------
+[ 2018-06-20T21:34:02+08:00 ] 172.16.19.90 171.221.102.141 GET /login/login/tongji.html?os=ios&imei=FCCB09F4-59EA-4EDA-8326-02C1C77540B3&uid=829
+[ info ] go.itlinux.cn/login/login/tongji.html?os=ios&imei=FCCB09F4-59EA-4EDA-8326-02C1C77540B3&uid=829 [运行时间：0.046196s][吞吐率：21.65req/s] [内存消耗：3,357.55kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/go.itlinux.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'login',
+    1 => 'login',
+    2 => 'tongji',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'go.itlinux.cn',
+  'user-agent' => '1.0.1 (iPhone; iOS 11.0; zh_CN)',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'os' => 'ios',
+  'imei' => 'FCCB09F4-59EA-4EDA-8326-02C1C77540B3',
+  'uid' => '829',
+)
+[ info ] [ RUN ] app\login\controller\Login->tongji[ /www/wwwroot/go.itlinux.cn/application/login/controller/Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000244s ] mysql:dbname=tvbox;host=localhost;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ap_tongji` [ RunTime:0.000757s ]
+[ sql ] [ SQL ] INSERT INTO `ap_tongji` (`os` , `imei` , `uid` , `time`) VALUES ('ios' , 'FCCB09F4-59EA-4EDA-8326-02C1C77540B3' , 829 , '1529501642') [ RunTime:0.004817s ]
+---------------------------------------------------------------
+[ 2018-06-20T21:34:02+08:00 ] 172.16.19.90 171.221.102.141 GET /login/login/imei.html?uid=829
+[ info ] go.itlinux.cn/login/login/imei.html?uid=829 [运行时间：0.062684s][吞吐率：15.95req/s] [内存消耗：3,382.86kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/go.itlinux.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'login',
+    1 => 'login',
+    2 => 'imei',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'go.itlinux.cn',
+  'user-agent' => '1.0.1 (iPhone; iOS 11.0; zh_CN)',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'uid' => '829',
+)
+[ info ] [ RUN ] app\login\controller\Login->imei[ /www/wwwroot/go.itlinux.cn/application/login/controller/Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004063s ] mysql:dbname=tvbox;host=localhost;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ap_user` [ RunTime:0.000843s ]
+[ sql ] [ SQL ] SELECT * FROM `ap_user` WHERE  `id` = 829 LIMIT 1 [ RunTime:0.000342s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ap_advert` [ RunTime:0.001535s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000167s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000172s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.004026s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000174s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 6 LIMIT 1 [ RunTime:0.000160s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 8 LIMIT 1 [ RunTime:0.000145s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 9 LIMIT 1 [ RunTime:0.000161s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 10 LIMIT 1 [ RunTime:0.000153s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000217s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 12 LIMIT 1 [ RunTime:0.000159s ]
+---------------------------------------------------------------
+[ 2018-06-20T21:34:02+08:00 ] 172.16.19.90 171.221.102.141 GET /login/login/banner.html
+[ info ] go.itlinux.cn/login/login/banner.html [运行时间：0.065526s][吞吐率：15.26req/s] [内存消耗：3,355.60kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/go.itlinux.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'login',
+    1 => 'login',
+    2 => 'banner',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'go.itlinux.cn',
+  'user-agent' => '1.0.1 (iPhone; iOS 11.0; zh_CN)',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\login\controller\Login->banner[ /www/wwwroot/go.itlinux.cn/application/login/controller/Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003349s ] mysql:dbname=tvbox;host=localhost;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ap_banner` [ RunTime:0.001310s ]
+[ sql ] [ SQL ] SELECT * FROM `ap_banner` [ RunTime:0.000472s ]
+---------------------------------------------------------------
+[ 2018-06-20T21:34:02+08:00 ] 172.16.19.90 171.221.102.141 GET /login/login/banben.html
+[ info ] go.itlinux.cn/login/login/banben.html [运行时间：0.058813s][吞吐率：17.00req/s] [内存消耗：3,364.09kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/go.itlinux.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'login',
+    1 => 'login',
+    2 => 'banben',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'go.itlinux.cn',
+  'user-agent' => '1.0.1 (iPhone; iOS 11.0; zh_CN)',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\login\controller\Login->banben[ /www/wwwroot/go.itlinux.cn/application/login/controller/Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000191s ] mysql:dbname=tvbox;host=localhost;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ap_advert` [ RunTime:0.001440s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 6 LIMIT 1 [ RunTime:0.000217s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 8 LIMIT 1 [ RunTime:0.000718s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 9 LIMIT 1 [ RunTime:0.012271s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 10 LIMIT 1 [ RunTime:0.000228s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000151s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 12 LIMIT 1 [ RunTime:0.000167s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.002967s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000151s ]
+---------------------------------------------------------------
+[ 2018-06-20T21:34:02+08:00 ] 172.16.19.90 171.221.102.141 GET /login/login/imgad.html
+[ info ] go.itlinux.cn/login/login/imgad.html [运行时间：0.035559s][吞吐率：28.12req/s] [内存消耗：3,361.70kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/go.itlinux.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'login',
+    1 => 'login',
+    2 => 'imgad',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'go.itlinux.cn',
+  'user-agent' => '1.0.1 (iPhone; iOS 11.0; zh_CN)',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\login\controller\Login->imgad[ /www/wwwroot/go.itlinux.cn/application/login/controller/Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000287s ] mysql:dbname=tvbox;host=localhost;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ap_advert` [ RunTime:0.000677s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000199s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000155s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 14 LIMIT 1 [ RunTime:0.000150s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 15 LIMIT 1 [ RunTime:0.000145s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 16 LIMIT 1 [ RunTime:0.000167s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 17 LIMIT 1 [ RunTime:0.000156s ]
+---------------------------------------------------------------
+[ 2018-06-20T21:34:06+08:00 ] 172.16.19.90 171.221.102.141 GET /login/login/imei.html?uid=829
+[ info ] go.itlinux.cn/login/login/imei.html?uid=829 [运行时间：0.031024s][吞吐率：32.23req/s] [内存消耗：3,382.86kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/go.itlinux.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'login',
+    1 => 'login',
+    2 => 'imei',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'go.itlinux.cn',
+  'user-agent' => '1.0.1 (iPhone; iOS 11.0; zh_CN)',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'uid' => '829',
+)
+[ info ] [ RUN ] app\login\controller\Login->imei[ /www/wwwroot/go.itlinux.cn/application/login/controller/Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000287s ] mysql:dbname=tvbox;host=localhost;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ap_user` [ RunTime:0.000853s ]
+[ sql ] [ SQL ] SELECT * FROM `ap_user` WHERE  `id` = 829 LIMIT 1 [ RunTime:0.000319s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ap_advert` [ RunTime:0.000471s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000164s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000149s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000144s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000162s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 6 LIMIT 1 [ RunTime:0.000155s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 8 LIMIT 1 [ RunTime:0.000141s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 9 LIMIT 1 [ RunTime:0.000156s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 10 LIMIT 1 [ RunTime:0.000145s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000140s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 12 LIMIT 1 [ RunTime:0.000141s ]
+---------------------------------------------------------------
+[ 2018-06-20T21:34:12+08:00 ] 172.16.19.90 113.140.161.251 GET /login/login/tongji.html?os=android&imei=00%3A9e%3Ac8%3A8a%3A99%3Aa8&uid=0
+[ info ] go.itlinux.cn/login/login/tongji.html?os=android&imei=00%3A9e%3Ac8%3A8a%3A99%3Aa8&uid=0 [运行时间：0.028206s][吞吐率：35.45req/s] [内存消耗：3,358.16kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/go.itlinux.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'login',
+    1 => 'login',
+    2 => 'tongji',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'charset' => 'UTF-8',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1; MiBOX3_PRO Build/LMY47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36',
+  'connection' => 'Keep-Alive',
+  'accept-encoding' => 'gzip',
+  'host' => 'go.itlinux.cn',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'os' => 'android',
+  'imei' => '00:9e:c8:8a:99:a8',
+  'uid' => '0',
+)
+[ info ] [ RUN ] app\login\controller\Login->tongji[ /www/wwwroot/go.itlinux.cn/application/login/controller/Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000246s ] mysql:dbname=tvbox;host=localhost;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ap_tongji` [ RunTime:0.000702s ]
+[ sql ] [ SQL ] INSERT INTO `ap_tongji` (`os` , `imei` , `uid` , `time`) VALUES ('android' , '00:9e:c8:8a:99:a8' , 0 , '1529501652') [ RunTime:0.002630s ]
+---------------------------------------------------------------
+[ 2018-06-20T21:34:12+08:00 ] 172.16.19.90 113.140.161.251 GET /login/login/banben.html
+[ info ] go.itlinux.cn/login/login/banben.html [运行时间：0.028134s][吞吐率：35.54req/s] [内存消耗：3,364.78kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/go.itlinux.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'login',
+    1 => 'login',
+    2 => 'banben',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'charset' => 'UTF-8',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1; MiBOX3_PRO Build/LMY47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36',
+  'connection' => 'Keep-Alive',
+  'accept-encoding' => 'gzip',
+  'host' => 'go.itlinux.cn',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\login\controller\Login->banben[ /www/wwwroot/go.itlinux.cn/application/login/controller/Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000270s ] mysql:dbname=tvbox;host=localhost;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ap_advert` [ RunTime:0.000718s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 6 LIMIT 1 [ RunTime:0.000225s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 8 LIMIT 1 [ RunTime:0.000156s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 9 LIMIT 1 [ RunTime:0.000148s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 10 LIMIT 1 [ RunTime:0.000147s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 11 LIMIT 1 [ RunTime:0.000165s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 12 LIMIT 1 [ RunTime:0.000160s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 13 LIMIT 1 [ RunTime:0.000168s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000161s ]
+---------------------------------------------------------------
+[ 2018-06-20T21:34:12+08:00 ] 172.16.19.90 113.140.161.251 GET /login/login/banner.html
+[ info ] go.itlinux.cn/login/login/banner.html [运行时间：0.036964s][吞吐率：27.05req/s] [内存消耗：3,356.48kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/go.itlinux.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'login',
+    1 => 'login',
+    2 => 'banner',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'charset' => 'UTF-8',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1; MiBOX3_PRO Build/LMY47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36',
+  'connection' => 'Keep-Alive',
+  'accept-encoding' => 'gzip',
+  'host' => 'go.itlinux.cn',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\login\controller\Login->banner[ /www/wwwroot/go.itlinux.cn/application/login/controller/Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000267s ] mysql:dbname=tvbox;host=localhost;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ap_banner` [ RunTime:0.011316s ]
+[ sql ] [ SQL ] SELECT * FROM `ap_banner` [ RunTime:0.000217s ]
+---------------------------------------------------------------
+[ 2018-06-20T21:34:12+08:00 ] 172.16.19.90 113.140.161.251 GET /login/login/imgad.html
+[ info ] go.itlinux.cn/login/login/imgad.html [运行时间：0.031765s][吞吐率：31.48req/s] [内存消耗：3,362.46kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/go.itlinux.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'login',
+    1 => 'login',
+    2 => 'imgad',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'charset' => 'UTF-8',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 5.1; MiBOX3_PRO Build/LMY47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36',
+  'connection' => 'Keep-Alive',
+  'accept-encoding' => 'gzip',
+  'host' => 'go.itlinux.cn',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\login\controller\Login->imgad[ /www/wwwroot/go.itlinux.cn/application/login/controller/Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000955s ] mysql:dbname=tvbox;host=localhost;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ap_advert` [ RunTime:0.000631s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000208s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000168s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 14 LIMIT 1 [ RunTime:0.000152s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 15 LIMIT 1 [ RunTime:0.000147s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 16 LIMIT 1 [ RunTime:0.000145s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 17 LIMIT 1 [ RunTime:0.000148s ]
+---------------------------------------------------------------
+[ 2018-06-20T21:34:49+08:00 ] 172.16.19.90 200.158.170.254 GET /
+[ info ] 47.98.147.232:80/ [运行时间：0.026594s][吞吐率：37.60req/s] [内存消耗：3,219.79kb] [文件加载：54]
+[ info ] [ LANG ] /www/wwwroot/go.itlinux.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '47.98.147.232:80',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36',
+  'content-length' => '0',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\app\controller\Index->index[ /www/wwwroot/go.itlinux.cn/application/app/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /www/wwwroot/go.itlinux.cn/application/app/view/index/index.html [ array (
+  0 => 'share',
+  1 => 'sid',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000280s ] mysql:dbname=tvbox;host=localhost;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ap_user` [ RunTime:0.000840s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ap_user` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000308s ]
+---------------------------------------------------------------
+[ 2018-06-20T21:35:34+08:00 ] 172.16.19.90 222.141.249.54 GET /login/login/veifys.html?username=13839348849&passwd=162022&imei=864035032177546
+[ info ] go.itlinux.cn/login/login/veifys.html?username=13839348849&passwd=162022&imei=864035032177546 [运行时间：0.044470s][吞吐率：22.49req/s] [内存消耗：3,488.62kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/go.itlinux.cn/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'login',
+    1 => 'login',
+    2 => 'veifys',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 8.0.0; STF-AL00 Build/HUAWEISTF-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
+  'connection' => 'Keep-Alive',
+  'charset' => 'UTF-8',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'host' => 'go.itlinux.cn',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'username' => '13839348849',
+  'passwd' => '162022',
+  'imei' => '864035032177546',
+)
+[ info ] [ RUN ] app\login\controller\Login->veifys[ /www/wwwroot/go.itlinux.cn/application/login/controller/Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000296s ] mysql:dbname=tvbox;host=localhost;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ap_user` [ RunTime:0.000864s ]
+[ sql ] [ SQL ] SELECT * FROM `ap_user` WHERE  `username` = '13839348849'  AND `password` = 'a2e0eba41be9e6de48019791fbb3b611' LIMIT 1 [ RunTime:0.001213s ]
+[ sql ] [ SQL ] SELECT * FROM `ap_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000227s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `ap_advert` [ RunTime:0.000464s ]
+[ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000161s ]
+[ sql ] [ SQL ] SELECT `weichat` FROM `ap_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000149s ]
+[ sql ] [ SQL ] UPDATE `ap_user`  SET `count`=count+1  WHERE  `id` = 971 [ RunTime:0.005773s ]
+[ sql ] [ SQL ] UPDATE `ap_user`  SET `logintime`=1529501734  WHERE  `id` = 971 [ RunTime:0.002822s ]
+[ sql ] [ SQL ] UPDATE `ap_user`  SET `imei`='864035032177546'  WHERE  `username` = '13839348849' [ RunTime:0.004179s ]
