@@ -15,11 +15,11 @@ return [
     // 服务器地址
     'hostname'        => 'localhost',
     // 数据库名
-    'database'        => 'xdyl_520xsy_cn',
+    'database'        => 'ojbk',
     // 用户名
-    'username'        => 'xdyl_520xsy_cn',
+    'username'        => 'root',
     // 密码
-    'password'        => 'iZSM5EDQxCeyZsZG',
+    'password'        => 'ojbk',
     // 端口
     'hostport'        => '3306',
     // 连接dsn
