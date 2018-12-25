@@ -1,7 +1,7 @@
 ---------------------------------------------------------------
 [ 2018-08-18T01:43:49+08:00 ] 10.17.16.218 118.212.233.110 GET /login/login/tongji.html?os=android&imei=868042030819596&uid=850
-[ info ] jiexi.monocon.com.cn/login/login/tongji.html?os=android&imei=868042030819596&uid=850 [运行时间：0.044591s][吞吐率：22.43req/s] [内存消耗：3,363.34kb] [文件加载：53]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/login/login/tongji.html?os=android&imei=868042030819596&uid=850 [运行时间：0.044591s][吞吐率：22.43req/s] [内存消耗：3,363.34kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -12,7 +12,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '111.85.62.43',
   'x-real-forwarded-for' => '111.85.62.43',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; MI 6X Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
@@ -32,7 +32,7 @@
   'imei' => '868042030819596',
   'uid' => '850',
 )
-[ info ] [ RUN ] app\login\controller\Login->tongji[ /www/wwwroot/jiexi.monocon.com.cn/application/login/controller/Login.php ]
+[ info ] [ RUN ] app\login\controller\Login->tongji[ /www/wwwroot/www.xincgai1.com/application/login/controller/Login.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 [ sql ] [ DB ] CONNECT:[ UseTime:0.000876s ] mysql:dbname=jiexi_monocon_c;host=localhost;port=3306;charset=utf8
@@ -40,8 +40,8 @@
 [ sql ] [ SQL ] INSERT INTO `ap_tongji` (`os` , `imei` , `uid` , `time`) VALUES ('android' , '868042030819596' , 850 , '1534527829') [ RunTime:0.007067s ]
 ---------------------------------------------------------------
 [ 2018-08-18T01:43:49+08:00 ] 10.17.16.218 118.212.233.110 GET /login/login/imei.html?uid=850
-[ info ] jiexi.monocon.com.cn/login/login/imei.html?uid=850 [运行时间：0.041716s][吞吐率：23.97req/s] [内存消耗：3,389.11kb] [文件加载：53]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/login/login/imei.html?uid=850 [运行时间：0.041716s][吞吐率：23.97req/s] [内存消耗：3,389.11kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -52,7 +52,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '111.85.62.43',
   'x-real-forwarded-for' => '111.85.62.43',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; MI 6X Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
@@ -70,7 +70,7 @@
 [ info ] [ PARAM ] array (
   'uid' => '850',
 )
-[ info ] [ RUN ] app\login\controller\Login->imei[ /www/wwwroot/jiexi.monocon.com.cn/application/login/controller/Login.php ]
+[ info ] [ RUN ] app\login\controller\Login->imei[ /www/wwwroot/www.xincgai1.com/application/login/controller/Login.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 [ sql ] [ DB ] CONNECT:[ UseTime:0.000460s ] mysql:dbname=jiexi_monocon_c;host=localhost;port=3306;charset=utf8
@@ -89,8 +89,8 @@
 [ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 12 LIMIT 1 [ RunTime:0.000208s ]
 ---------------------------------------------------------------
 [ 2018-08-18T01:43:50+08:00 ] 10.17.16.218 118.212.233.110 GET /login/login/banner.html
-[ info ] jiexi.monocon.com.cn/login/login/banner.html [运行时间：0.033489s][吞吐率：29.86req/s] [内存消耗：3,362.23kb] [文件加载：53]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/login/login/banner.html [运行时间：0.033489s][吞吐率：29.86req/s] [内存消耗：3,362.23kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -101,7 +101,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '111.85.62.43',
   'x-real-forwarded-for' => '111.85.62.43',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; MI 6X Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
@@ -118,7 +118,7 @@
 )
 [ info ] [ PARAM ] array (
 )
-[ info ] [ RUN ] app\login\controller\Login->banner[ /www/wwwroot/jiexi.monocon.com.cn/application/login/controller/Login.php ]
+[ info ] [ RUN ] app\login\controller\Login->banner[ /www/wwwroot/www.xincgai1.com/application/login/controller/Login.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 [ sql ] [ DB ] CONNECT:[ UseTime:0.000285s ] mysql:dbname=jiexi_monocon_c;host=localhost;port=3306;charset=utf8
@@ -126,8 +126,8 @@
 [ sql ] [ SQL ] SELECT * FROM `ap_banner` [ RunTime:0.000299s ]
 ---------------------------------------------------------------
 [ 2018-08-18T01:43:50+08:00 ] 10.17.16.218 118.212.233.110 GET /login/login/imgad.html
-[ info ] jiexi.monocon.com.cn/login/login/imgad.html [运行时间：0.033958s][吞吐率：29.45req/s] [内存消耗：3,368.23kb] [文件加载：53]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/login/login/imgad.html [运行时间：0.033958s][吞吐率：29.45req/s] [内存消耗：3,368.23kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -138,7 +138,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '111.85.62.43',
   'x-real-forwarded-for' => '111.85.62.43',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; MI 6X Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
@@ -155,7 +155,7 @@
 )
 [ info ] [ PARAM ] array (
 )
-[ info ] [ RUN ] app\login\controller\Login->imgad[ /www/wwwroot/jiexi.monocon.com.cn/application/login/controller/Login.php ]
+[ info ] [ RUN ] app\login\controller\Login->imgad[ /www/wwwroot/www.xincgai1.com/application/login/controller/Login.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 [ sql ] [ DB ] CONNECT:[ UseTime:0.000464s ] mysql:dbname=jiexi_monocon_c;host=localhost;port=3306;charset=utf8
@@ -168,8 +168,8 @@
 [ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 17 LIMIT 1 [ RunTime:0.000203s ]
 ---------------------------------------------------------------
 [ 2018-08-18T01:43:50+08:00 ] 10.17.16.218 118.212.233.110 GET /login/login/banben.html
-[ info ] jiexi.monocon.com.cn/login/login/banben.html [运行时间：0.043268s][吞吐率：23.11req/s] [内存消耗：3,370.38kb] [文件加载：53]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/login/login/banben.html [运行时间：0.043268s][吞吐率：23.11req/s] [内存消耗：3,370.38kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -180,7 +180,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '111.85.62.43',
   'x-real-forwarded-for' => '111.85.62.43',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; MI 6X Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
@@ -197,7 +197,7 @@
 )
 [ info ] [ PARAM ] array (
 )
-[ info ] [ RUN ] app\login\controller\Login->banben[ /www/wwwroot/jiexi.monocon.com.cn/application/login/controller/Login.php ]
+[ info ] [ RUN ] app\login\controller\Login->banben[ /www/wwwroot/www.xincgai1.com/application/login/controller/Login.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 [ sql ] [ DB ] CONNECT:[ UseTime:0.000304s ] mysql:dbname=jiexi_monocon_c;host=localhost;port=3306;charset=utf8
@@ -212,8 +212,8 @@
 [ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000197s ]
 ---------------------------------------------------------------
 [ 2018-08-18T01:44:07+08:00 ] 10.17.16.218 118.212.233.110 GET /favicon.ico
-[ info ] jiexi.monocon.com.cn/favicon.ico [运行时间：0.038840s][吞吐率：25.75req/s] [内存消耗：1,898.81kb] [文件加载：40]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/favicon.ico [运行时间：0.038840s][吞吐率：25.75req/s] [内存消耗：1,898.81kb] [文件加载：40]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -224,12 +224,12 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '111.85.62.43',
   'x-real-forwarded-for' => '111.85.62.43',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; MI 6X Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
   'accept' => 'image/webp,image/*,*/*;q=0.8',
-  'referer' => 'http://jiexi.monocon.com.cn/tao/?r=index/wap',
+  'referer' => 'http://www.xincgai1.com/tao/?r=index/wap',
   'accept-encoding' => 'gzip, deflate',
   'accept-language' => 'zh-CN,en-US;q=0.8',
   'x-connecting-ip' => '111.85.62.43',
@@ -244,8 +244,8 @@
 [ info ] [ LOG ] INIT File
 ---------------------------------------------------------------
 [ 2018-08-18T01:44:07+08:00 ] 10.17.16.218 118.212.233.110 GET /favicon.ico
-[ info ] jiexi.monocon.com.cn/favicon.ico [运行时间：0.018447s][吞吐率：54.21req/s] [内存消耗：1,898.77kb] [文件加载：40]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/favicon.ico [运行时间：0.018447s][吞吐率：54.21req/s] [内存消耗：1,898.77kb] [文件加载：40]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -256,12 +256,12 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '111.85.62.43',
   'x-real-forwarded-for' => '111.85.62.43',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; MI 6X Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
   'accept' => 'image/webp,image/*,*/*;q=0.8',
-  'referer' => 'http://jiexi.monocon.com.cn/tao/?r=index/wap',
+  'referer' => 'http://www.xincgai1.com/tao/?r=index/wap',
   'accept-encoding' => 'gzip, deflate',
   'accept-language' => 'zh-CN,en-US;q=0.8',
   'x-connecting-ip' => '111.85.62.43',
@@ -276,8 +276,8 @@
 [ info ] [ LOG ] INIT File
 ---------------------------------------------------------------
 [ 2018-08-18T01:44:07+08:00 ] 10.17.16.218 118.212.233.110 GET /favicon.ico
-[ info ] jiexi.monocon.com.cn/favicon.ico [运行时间：0.019279s][吞吐率：51.87req/s] [内存消耗：1,924.02kb] [文件加载：39]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/favicon.ico [运行时间：0.019279s][吞吐率：51.87req/s] [内存消耗：1,924.02kb] [文件加载：39]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -288,12 +288,12 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '111.85.62.43',
   'x-real-forwarded-for' => '111.85.62.43',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; MI 6X Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
   'accept' => 'image/webp,image/*,*/*;q=0.8',
-  'referer' => 'http://jiexi.monocon.com.cn/tao/?r=index/wap',
+  'referer' => 'http://www.xincgai1.com/tao/?r=index/wap',
   'accept-encoding' => 'gzip, deflate',
   'accept-language' => 'zh-CN,en-US;q=0.8',
   'x-connecting-ip' => '111.85.62.43',
@@ -308,8 +308,8 @@
 [ info ] [ LOG ] INIT File
 ---------------------------------------------------------------
 [ 2018-08-18T01:44:07+08:00 ] 10.17.16.218 118.212.233.110 GET /favicon.ico
-[ info ] jiexi.monocon.com.cn/favicon.ico [运行时间：0.018997s][吞吐率：52.64req/s] [内存消耗：1,898.77kb] [文件加载：40]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/favicon.ico [运行时间：0.018997s][吞吐率：52.64req/s] [内存消耗：1,898.77kb] [文件加载：40]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -320,12 +320,12 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '111.85.62.43',
   'x-real-forwarded-for' => '111.85.62.43',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; MI 6X Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
   'accept' => 'image/webp,image/*,*/*;q=0.8',
-  'referer' => 'http://jiexi.monocon.com.cn/tao/?r=index/wap',
+  'referer' => 'http://www.xincgai1.com/tao/?r=index/wap',
   'accept-encoding' => 'gzip, deflate',
   'accept-language' => 'zh-CN,en-US;q=0.8',
   'x-connecting-ip' => '111.85.62.43',
@@ -341,7 +341,7 @@
 ---------------------------------------------------------------
 [ 2018-08-18T01:44:09+08:00 ] 10.17.16.218 118.212.233.110 GET /wodetu2.jpg
 [ info ] app.monocon.com.cn/wodetu2.jpg [运行时间：0.021867s][吞吐率：45.73req/s] [内存消耗：1,898.73kb] [文件加载：40]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -372,8 +372,8 @@
 [ info ] [ LOG ] INIT File
 ---------------------------------------------------------------
 [ 2018-08-18T02:51:42+08:00 ] 10.17.16.218 180.97.158.216 HEAD /
-[ info ] jiexi.monocon.com.cn/ [运行时间：0.055707s][吞吐率：17.95req/s] [内存消耗：3,223.91kb] [文件加载：54]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/ [运行时间：0.055707s][吞吐率：17.95req/s] [内存消耗：3,223.91kb] [文件加载：54]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -384,7 +384,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '58.217.192.54',
   'x-real-forwarded-for' => '58.217.192.54',
   'user-agent' => 'curl/7.29.0',
@@ -398,9 +398,9 @@
 )
 [ info ] [ PARAM ] array (
 )
-[ info ] [ RUN ] app\app\controller\Index->index[ /www/wwwroot/jiexi.monocon.com.cn/application/app/controller/Index.php ]
+[ info ] [ RUN ] app\app\controller\Index->index[ /www/wwwroot/www.xincgai1.com/application/app/controller/Index.php ]
 [ info ] [ DB ] INIT mysql
-[ info ] [ VIEW ] /www/wwwroot/jiexi.monocon.com.cn/application/app/view/index/index.html [ array (
+[ info ] [ VIEW ] /www/wwwroot/www.xincgai1.com/application/app/view/index/index.html [ array (
   0 => 'share',
   1 => 'sid',
 ) ]
@@ -410,8 +410,8 @@
 [ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ap_user` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000401s ]
 ---------------------------------------------------------------
 [ 2018-08-18T03:12:38+08:00 ] 10.17.16.218 117.23.61.137 HEAD /
-[ info ] jiexi.monocon.com.cn/ [运行时间：0.034151s][吞吐率：29.28req/s] [内存消耗：3,223.91kb] [文件加载：54]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/ [运行时间：0.034151s][吞吐率：29.28req/s] [内存消耗：3,223.91kb] [文件加载：54]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -422,7 +422,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '58.217.192.54',
   'x-real-forwarded-for' => '58.217.192.54',
   'user-agent' => 'curl/7.29.0',
@@ -436,9 +436,9 @@
 )
 [ info ] [ PARAM ] array (
 )
-[ info ] [ RUN ] app\app\controller\Index->index[ /www/wwwroot/jiexi.monocon.com.cn/application/app/controller/Index.php ]
+[ info ] [ RUN ] app\app\controller\Index->index[ /www/wwwroot/www.xincgai1.com/application/app/controller/Index.php ]
 [ info ] [ DB ] INIT mysql
-[ info ] [ VIEW ] /www/wwwroot/jiexi.monocon.com.cn/application/app/view/index/index.html [ array (
+[ info ] [ VIEW ] /www/wwwroot/www.xincgai1.com/application/app/view/index/index.html [ array (
   0 => 'share',
   1 => 'sid',
 ) ]
@@ -449,7 +449,7 @@
 ---------------------------------------------------------------
 [ 2018-08-18T04:26:36+08:00 ] 10.17.16.218 117.23.61.137 HEAD /
 [ info ] app.monocon.com.cn/ [运行时间：0.047359s][吞吐率：21.12req/s] [内存消耗：3,223.69kb] [文件加载：54]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -474,9 +474,9 @@
 )
 [ info ] [ PARAM ] array (
 )
-[ info ] [ RUN ] app\app\controller\Index->index[ /www/wwwroot/jiexi.monocon.com.cn/application/app/controller/Index.php ]
+[ info ] [ RUN ] app\app\controller\Index->index[ /www/wwwroot/www.xincgai1.com/application/app/controller/Index.php ]
 [ info ] [ DB ] INIT mysql
-[ info ] [ VIEW ] /www/wwwroot/jiexi.monocon.com.cn/application/app/view/index/index.html [ array (
+[ info ] [ VIEW ] /www/wwwroot/www.xincgai1.com/application/app/view/index/index.html [ array (
   0 => 'share',
   1 => 'sid',
 ) ]
@@ -487,7 +487,7 @@
 ---------------------------------------------------------------
 [ 2018-08-18T05:00:01+08:00 ] 10.17.16.218 180.97.158.216 HEAD /
 [ info ] app.monocon.com.cn/ [运行时间：0.037435s][吞吐率：26.71req/s] [内存消耗：3,223.69kb] [文件加载：54]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -512,9 +512,9 @@
 )
 [ info ] [ PARAM ] array (
 )
-[ info ] [ RUN ] app\app\controller\Index->index[ /www/wwwroot/jiexi.monocon.com.cn/application/app/controller/Index.php ]
+[ info ] [ RUN ] app\app\controller\Index->index[ /www/wwwroot/www.xincgai1.com/application/app/controller/Index.php ]
 [ info ] [ DB ] INIT mysql
-[ info ] [ VIEW ] /www/wwwroot/jiexi.monocon.com.cn/application/app/view/index/index.html [ array (
+[ info ] [ VIEW ] /www/wwwroot/www.xincgai1.com/application/app/view/index/index.html [ array (
   0 => 'share',
   1 => 'sid',
 ) ]
@@ -524,8 +524,8 @@
 [ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ap_user` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000401s ]
 ---------------------------------------------------------------
 [ 2018-08-18T05:56:27+08:00 ] 10.17.16.218 180.97.158.216 GET /
-[ info ] jiexi.monocon.com.cn/ [运行时间：0.034972s][吞吐率：28.59req/s] [内存消耗：3,224.81kb] [文件加载：54]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/ [运行时间：0.034972s][吞吐率：28.59req/s] [内存消耗：3,224.81kb] [文件加载：54]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -536,7 +536,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '58.217.192.54',
   'x-real-forwarded-for' => '58.217.192.54',
   'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36',
@@ -553,9 +553,9 @@
 )
 [ info ] [ PARAM ] array (
 )
-[ info ] [ RUN ] app\app\controller\Index->index[ /www/wwwroot/jiexi.monocon.com.cn/application/app/controller/Index.php ]
+[ info ] [ RUN ] app\app\controller\Index->index[ /www/wwwroot/www.xincgai1.com/application/app/controller/Index.php ]
 [ info ] [ DB ] INIT mysql
-[ info ] [ VIEW ] /www/wwwroot/jiexi.monocon.com.cn/application/app/view/index/index.html [ array (
+[ info ] [ VIEW ] /www/wwwroot/www.xincgai1.com/application/app/view/index/index.html [ array (
   0 => 'share',
   1 => 'sid',
 ) ]
@@ -565,8 +565,8 @@
 [ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `ap_user` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000333s ]
 ---------------------------------------------------------------
 [ 2018-08-18T09:27:28+08:00 ] 10.17.16.218 117.23.61.137 GET /login/login/tongji.html?os=android&imei=868042030819596&uid=850
-[ info ] jiexi.monocon.com.cn/login/login/tongji.html?os=android&imei=868042030819596&uid=850 [运行时间：0.044272s][吞吐率：22.59req/s] [内存消耗：3,363.41kb] [文件加载：53]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/login/login/tongji.html?os=android&imei=868042030819596&uid=850 [运行时间：0.044272s][吞吐率：22.59req/s] [内存消耗：3,363.41kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -577,7 +577,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '223.104.254.189',
   'x-real-forwarded-for' => '223.104.254.189',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; MI 6X Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
@@ -597,7 +597,7 @@
   'imei' => '868042030819596',
   'uid' => '850',
 )
-[ info ] [ RUN ] app\login\controller\Login->tongji[ /www/wwwroot/jiexi.monocon.com.cn/application/login/controller/Login.php ]
+[ info ] [ RUN ] app\login\controller\Login->tongji[ /www/wwwroot/www.xincgai1.com/application/login/controller/Login.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 [ sql ] [ DB ] CONNECT:[ UseTime:0.000503s ] mysql:dbname=jiexi_monocon_c;host=localhost;port=3306;charset=utf8
@@ -605,8 +605,8 @@
 [ sql ] [ SQL ] INSERT INTO `ap_tongji` (`os` , `imei` , `uid` , `time`) VALUES ('android' , '868042030819596' , 850 , '1534555648') [ RunTime:0.003260s ]
 ---------------------------------------------------------------
 [ 2018-08-18T09:27:28+08:00 ] 10.17.16.218 117.23.61.137 GET /login/login/imei.html?uid=850
-[ info ] jiexi.monocon.com.cn/login/login/imei.html?uid=850 [运行时间：0.055354s][吞吐率：18.07req/s] [内存消耗：3,389.12kb] [文件加载：53]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/login/login/imei.html?uid=850 [运行时间：0.055354s][吞吐率：18.07req/s] [内存消耗：3,389.12kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -617,7 +617,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '223.104.254.189',
   'x-real-forwarded-for' => '223.104.254.189',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; MI 6X Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
@@ -635,7 +635,7 @@
 [ info ] [ PARAM ] array (
   'uid' => '850',
 )
-[ info ] [ RUN ] app\login\controller\Login->imei[ /www/wwwroot/jiexi.monocon.com.cn/application/login/controller/Login.php ]
+[ info ] [ RUN ] app\login\controller\Login->imei[ /www/wwwroot/www.xincgai1.com/application/login/controller/Login.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 [ sql ] [ DB ] CONNECT:[ UseTime:0.001103s ] mysql:dbname=jiexi_monocon_c;host=localhost;port=3306;charset=utf8
@@ -654,8 +654,8 @@
 [ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 12 LIMIT 1 [ RunTime:0.000240s ]
 ---------------------------------------------------------------
 [ 2018-08-18T09:27:28+08:00 ] 10.17.16.218 117.23.61.137 GET /login/login/banner.html
-[ info ] jiexi.monocon.com.cn/login/login/banner.html [运行时间：0.031716s][吞吐率：31.53req/s] [内存消耗：3,362.05kb] [文件加载：53]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/login/login/banner.html [运行时间：0.031716s][吞吐率：31.53req/s] [内存消耗：3,362.05kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -666,7 +666,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '223.104.254.189',
   'x-real-forwarded-for' => '223.104.254.189',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; MI 6X Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
@@ -683,7 +683,7 @@
 )
 [ info ] [ PARAM ] array (
 )
-[ info ] [ RUN ] app\login\controller\Login->banner[ /www/wwwroot/jiexi.monocon.com.cn/application/login/controller/Login.php ]
+[ info ] [ RUN ] app\login\controller\Login->banner[ /www/wwwroot/www.xincgai1.com/application/login/controller/Login.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 [ sql ] [ DB ] CONNECT:[ UseTime:0.000254s ] mysql:dbname=jiexi_monocon_c;host=localhost;port=3306;charset=utf8
@@ -691,8 +691,8 @@
 [ sql ] [ SQL ] SELECT * FROM `ap_banner` [ RunTime:0.000273s ]
 ---------------------------------------------------------------
 [ 2018-08-18T09:27:28+08:00 ] 10.17.16.218 117.23.61.137 GET /login/login/banben.html
-[ info ] jiexi.monocon.com.cn/login/login/banben.html [运行时间：0.048574s][吞吐率：20.59req/s] [内存消耗：3,370.41kb] [文件加载：53]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/login/login/banben.html [运行时间：0.048574s][吞吐率：20.59req/s] [内存消耗：3,370.41kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -703,7 +703,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '223.104.254.189',
   'x-real-forwarded-for' => '223.104.254.189',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; MI 6X Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
@@ -720,7 +720,7 @@
 )
 [ info ] [ PARAM ] array (
 )
-[ info ] [ RUN ] app\login\controller\Login->banben[ /www/wwwroot/jiexi.monocon.com.cn/application/login/controller/Login.php ]
+[ info ] [ RUN ] app\login\controller\Login->banben[ /www/wwwroot/www.xincgai1.com/application/login/controller/Login.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 [ sql ] [ DB ] CONNECT:[ UseTime:0.000303s ] mysql:dbname=jiexi_monocon_c;host=localhost;port=3306;charset=utf8
@@ -735,8 +735,8 @@
 [ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000204s ]
 ---------------------------------------------------------------
 [ 2018-08-18T09:27:28+08:00 ] 10.17.16.218 117.23.61.137 GET /login/login/imgad.html
-[ info ] jiexi.monocon.com.cn/login/login/imgad.html [运行时间：0.042126s][吞吐率：23.74req/s] [内存消耗：3,368.05kb] [文件加载：53]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/login/login/imgad.html [运行时间：0.042126s][吞吐率：23.74req/s] [内存消耗：3,368.05kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -747,7 +747,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '223.104.254.189',
   'x-real-forwarded-for' => '223.104.254.189',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; MI 6X Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
@@ -764,7 +764,7 @@
 )
 [ info ] [ PARAM ] array (
 )
-[ info ] [ RUN ] app\login\controller\Login->imgad[ /www/wwwroot/jiexi.monocon.com.cn/application/login/controller/Login.php ]
+[ info ] [ RUN ] app\login\controller\Login->imgad[ /www/wwwroot/www.xincgai1.com/application/login/controller/Login.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 [ sql ] [ DB ] CONNECT:[ UseTime:0.000210s ] mysql:dbname=jiexi_monocon_c;host=localhost;port=3306;charset=utf8
@@ -777,8 +777,8 @@
 [ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 17 LIMIT 1 [ RunTime:0.000210s ]
 ---------------------------------------------------------------
 [ 2018-08-18T09:27:37+08:00 ] 10.17.16.218 117.23.61.137 GET /favicon.ico
-[ info ] jiexi.monocon.com.cn/favicon.ico [运行时间：0.022379s][吞吐率：44.68req/s] [内存消耗：1,924.05kb] [文件加载：39]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/favicon.ico [运行时间：0.022379s][吞吐率：44.68req/s] [内存消耗：1,924.05kb] [文件加载：39]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -789,12 +789,12 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '223.104.254.189',
   'x-real-forwarded-for' => '223.104.254.189',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; MI 6X Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
   'accept' => 'image/webp,image/*,*/*;q=0.8',
-  'referer' => 'http://jiexi.monocon.com.cn/tao/?r=index/wap',
+  'referer' => 'http://www.xincgai1.com/tao/?r=index/wap',
   'accept-encoding' => 'gzip, deflate',
   'accept-language' => 'zh-CN,en-US;q=0.8',
   'x-connecting-ip' => '223.104.254.189',
@@ -809,8 +809,8 @@
 [ info ] [ LOG ] INIT File
 ---------------------------------------------------------------
 [ 2018-08-18T09:27:37+08:00 ] 10.17.16.218 117.23.61.137 GET /favicon.ico
-[ info ] jiexi.monocon.com.cn/favicon.ico [运行时间：0.025457s][吞吐率：39.28req/s] [内存消耗：1,898.80kb] [文件加载：40]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/favicon.ico [运行时间：0.025457s][吞吐率：39.28req/s] [内存消耗：1,898.80kb] [文件加载：40]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -821,12 +821,12 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '223.104.254.189',
   'x-real-forwarded-for' => '223.104.254.189',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; MI 6X Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
   'accept' => 'image/webp,image/*,*/*;q=0.8',
-  'referer' => 'http://jiexi.monocon.com.cn/tao/?r=index/wap',
+  'referer' => 'http://www.xincgai1.com/tao/?r=index/wap',
   'accept-encoding' => 'gzip, deflate',
   'accept-language' => 'zh-CN,en-US;q=0.8',
   'x-connecting-ip' => '223.104.254.189',
@@ -841,8 +841,8 @@
 [ info ] [ LOG ] INIT File
 ---------------------------------------------------------------
 [ 2018-08-18T09:27:38+08:00 ] 10.17.16.218 117.23.61.137 GET /favicon.ico
-[ info ] jiexi.monocon.com.cn/favicon.ico [运行时间：0.023254s][吞吐率：43.00req/s] [内存消耗：1,924.05kb] [文件加载：39]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/favicon.ico [运行时间：0.023254s][吞吐率：43.00req/s] [内存消耗：1,924.05kb] [文件加载：39]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -853,12 +853,12 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '223.104.254.189',
   'x-real-forwarded-for' => '223.104.254.189',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; MI 6X Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
   'accept' => 'image/webp,image/*,*/*;q=0.8',
-  'referer' => 'http://jiexi.monocon.com.cn/tao/?r=index/wap',
+  'referer' => 'http://www.xincgai1.com/tao/?r=index/wap',
   'accept-encoding' => 'gzip, deflate',
   'accept-language' => 'zh-CN,en-US;q=0.8',
   'x-connecting-ip' => '223.104.254.189',
@@ -873,8 +873,8 @@
 [ info ] [ LOG ] INIT File
 ---------------------------------------------------------------
 [ 2018-08-18T09:27:38+08:00 ] 10.17.16.218 117.23.61.137 GET /favicon.ico
-[ info ] jiexi.monocon.com.cn/favicon.ico [运行时间：0.017273s][吞吐率：57.89req/s] [内存消耗：1,923.95kb] [文件加载：39]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/favicon.ico [运行时间：0.017273s][吞吐率：57.89req/s] [内存消耗：1,923.95kb] [文件加载：39]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -885,12 +885,12 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '223.104.254.189',
   'x-real-forwarded-for' => '223.104.254.189',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; MI 6X Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
   'accept' => 'image/webp,image/*,*/*;q=0.8',
-  'referer' => 'http://jiexi.monocon.com.cn/tao/?r=index/wap',
+  'referer' => 'http://www.xincgai1.com/tao/?r=index/wap',
   'accept-encoding' => 'gzip, deflate',
   'accept-language' => 'zh-CN,en-US;q=0.8',
   'x-connecting-ip' => '223.104.254.189',
@@ -906,7 +906,7 @@
 ---------------------------------------------------------------
 [ 2018-08-18T09:27:41+08:00 ] 10.17.16.218 180.97.158.216 GET /wodetu2.jpg
 [ info ] app.monocon.com.cn/wodetu2.jpg [运行时间：0.045948s][吞吐率：21.76req/s] [内存消耗：1,898.74kb] [文件加载：40]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -937,8 +937,8 @@
 [ info ] [ LOG ] INIT File
 ---------------------------------------------------------------
 [ 2018-08-18T09:27:45+08:00 ] 10.17.16.218 117.23.61.137 GET /login/login/share.html?uid=850
-[ info ] jiexi.monocon.com.cn/login/login/share.html?uid=850 [运行时间：0.073410s][吞吐率：13.62req/s] [内存消耗：3,498.09kb] [文件加载：56]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/login/login/share.html?uid=850 [运行时间：0.073410s][吞吐率：13.62req/s] [内存消耗：3,498.09kb] [文件加载：56]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -949,7 +949,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '223.104.254.189',
   'x-real-forwarded-for' => '223.104.254.189',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; MI 6X Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
@@ -967,7 +967,7 @@
 [ info ] [ PARAM ] array (
   'uid' => '850',
 )
-[ info ] [ RUN ] app\login\controller\Login->share[ /www/wwwroot/jiexi.monocon.com.cn/application/login/controller/Login.php ]
+[ info ] [ RUN ] app\login\controller\Login->share[ /www/wwwroot/www.xincgai1.com/application/login/controller/Login.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ CACHE ] INIT File
 [ info ] [ LOG ] INIT File
@@ -984,8 +984,8 @@
 [ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 4 LIMIT 1 [ RunTime:0.000217s ]
 ---------------------------------------------------------------
 [ 2018-08-18T11:20:30+08:00 ] 10.17.16.218 117.23.61.137 GET /login/login/tongji.html?os=android&imei=868042030819596&uid=850
-[ info ] jiexi.monocon.com.cn/login/login/tongji.html?os=android&imei=868042030819596&uid=850 [运行时间：0.047903s][吞吐率：20.88req/s] [内存消耗：3,363.41kb] [文件加载：53]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/login/login/tongji.html?os=android&imei=868042030819596&uid=850 [运行时间：0.047903s][吞吐率：20.88req/s] [内存消耗：3,363.41kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -996,7 +996,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '223.104.254.189',
   'x-real-forwarded-for' => '223.104.254.189',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; MI 6X Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
@@ -1016,7 +1016,7 @@
   'imei' => '868042030819596',
   'uid' => '850',
 )
-[ info ] [ RUN ] app\login\controller\Login->tongji[ /www/wwwroot/jiexi.monocon.com.cn/application/login/controller/Login.php ]
+[ info ] [ RUN ] app\login\controller\Login->tongji[ /www/wwwroot/www.xincgai1.com/application/login/controller/Login.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 [ sql ] [ DB ] CONNECT:[ UseTime:0.000881s ] mysql:dbname=jiexi_monocon_c;host=localhost;port=3306;charset=utf8
@@ -1024,8 +1024,8 @@
 [ sql ] [ SQL ] INSERT INTO `ap_tongji` (`os` , `imei` , `uid` , `time`) VALUES ('android' , '868042030819596' , 850 , '1534562430') [ RunTime:0.002925s ]
 ---------------------------------------------------------------
 [ 2018-08-18T11:20:30+08:00 ] 10.17.16.218 117.23.61.137 GET /login/login/imei.html?uid=850
-[ info ] jiexi.monocon.com.cn/login/login/imei.html?uid=850 [运行时间：0.036411s][吞吐率：27.46req/s] [内存消耗：3,389.12kb] [文件加载：53]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/login/login/imei.html?uid=850 [运行时间：0.036411s][吞吐率：27.46req/s] [内存消耗：3,389.12kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -1036,7 +1036,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '223.104.254.189',
   'x-real-forwarded-for' => '223.104.254.189',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; MI 6X Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
@@ -1054,7 +1054,7 @@
 [ info ] [ PARAM ] array (
   'uid' => '850',
 )
-[ info ] [ RUN ] app\login\controller\Login->imei[ /www/wwwroot/jiexi.monocon.com.cn/application/login/controller/Login.php ]
+[ info ] [ RUN ] app\login\controller\Login->imei[ /www/wwwroot/www.xincgai1.com/application/login/controller/Login.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 [ sql ] [ DB ] CONNECT:[ UseTime:0.000373s ] mysql:dbname=jiexi_monocon_c;host=localhost;port=3306;charset=utf8
@@ -1073,8 +1073,8 @@
 [ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 12 LIMIT 1 [ RunTime:0.000200s ]
 ---------------------------------------------------------------
 [ 2018-08-18T11:20:30+08:00 ] 10.17.16.218 117.23.61.137 GET /login/login/banben.html
-[ info ] jiexi.monocon.com.cn/login/login/banben.html [运行时间：0.034728s][吞吐率：28.80req/s] [内存消耗：3,370.41kb] [文件加载：53]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/login/login/banben.html [运行时间：0.034728s][吞吐率：28.80req/s] [内存消耗：3,370.41kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -1085,7 +1085,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '223.104.254.189',
   'x-real-forwarded-for' => '223.104.254.189',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; MI 6X Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
@@ -1102,7 +1102,7 @@
 )
 [ info ] [ PARAM ] array (
 )
-[ info ] [ RUN ] app\login\controller\Login->banben[ /www/wwwroot/jiexi.monocon.com.cn/application/login/controller/Login.php ]
+[ info ] [ RUN ] app\login\controller\Login->banben[ /www/wwwroot/www.xincgai1.com/application/login/controller/Login.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 [ sql ] [ DB ] CONNECT:[ UseTime:0.000401s ] mysql:dbname=jiexi_monocon_c;host=localhost;port=3306;charset=utf8
@@ -1117,8 +1117,8 @@
 [ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000208s ]
 ---------------------------------------------------------------
 [ 2018-08-18T11:20:30+08:00 ] 10.17.16.218 117.23.61.137 GET /login/login/imgad.html
-[ info ] jiexi.monocon.com.cn/login/login/imgad.html [运行时间：0.034547s][吞吐率：28.95req/s] [内存消耗：3,368.05kb] [文件加载：53]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/login/login/imgad.html [运行时间：0.034547s][吞吐率：28.95req/s] [内存消耗：3,368.05kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -1129,7 +1129,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '223.104.254.189',
   'x-real-forwarded-for' => '223.104.254.189',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; MI 6X Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
@@ -1146,7 +1146,7 @@
 )
 [ info ] [ PARAM ] array (
 )
-[ info ] [ RUN ] app\login\controller\Login->imgad[ /www/wwwroot/jiexi.monocon.com.cn/application/login/controller/Login.php ]
+[ info ] [ RUN ] app\login\controller\Login->imgad[ /www/wwwroot/www.xincgai1.com/application/login/controller/Login.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 [ sql ] [ DB ] CONNECT:[ UseTime:0.000263s ] mysql:dbname=jiexi_monocon_c;host=localhost;port=3306;charset=utf8
@@ -1159,8 +1159,8 @@
 [ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 17 LIMIT 1 [ RunTime:0.000201s ]
 ---------------------------------------------------------------
 [ 2018-08-18T11:20:30+08:00 ] 10.17.16.218 117.23.61.137 GET /login/login/banner.html
-[ info ] jiexi.monocon.com.cn/login/login/banner.html [运行时间：0.031883s][吞吐率：31.36req/s] [内存消耗：3,362.05kb] [文件加载：53]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/login/login/banner.html [运行时间：0.031883s][吞吐率：31.36req/s] [内存消耗：3,362.05kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -1171,7 +1171,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '223.104.254.189',
   'x-real-forwarded-for' => '223.104.254.189',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; MI 6X Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
@@ -1188,7 +1188,7 @@
 )
 [ info ] [ PARAM ] array (
 )
-[ info ] [ RUN ] app\login\controller\Login->banner[ /www/wwwroot/jiexi.monocon.com.cn/application/login/controller/Login.php ]
+[ info ] [ RUN ] app\login\controller\Login->banner[ /www/wwwroot/www.xincgai1.com/application/login/controller/Login.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 [ sql ] [ DB ] CONNECT:[ UseTime:0.000278s ] mysql:dbname=jiexi_monocon_c;host=localhost;port=3306;charset=utf8
@@ -1196,8 +1196,8 @@
 [ sql ] [ SQL ] SELECT * FROM `ap_banner` [ RunTime:0.000241s ]
 ---------------------------------------------------------------
 [ 2018-08-18T11:20:35+08:00 ] 10.17.16.218 117.23.61.137 GET /login/login/imei.html?uid=850
-[ info ] jiexi.monocon.com.cn/login/login/imei.html?uid=850 [运行时间：0.034015s][吞吐率：29.40req/s] [内存消耗：3,389.12kb] [文件加载：53]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/login/login/imei.html?uid=850 [运行时间：0.034015s][吞吐率：29.40req/s] [内存消耗：3,389.12kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -1208,7 +1208,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '223.104.254.189',
   'x-real-forwarded-for' => '223.104.254.189',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; MI 6X Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36',
@@ -1226,7 +1226,7 @@
 [ info ] [ PARAM ] array (
   'uid' => '850',
 )
-[ info ] [ RUN ] app\login\controller\Login->imei[ /www/wwwroot/jiexi.monocon.com.cn/application/login/controller/Login.php ]
+[ info ] [ RUN ] app\login\controller\Login->imei[ /www/wwwroot/www.xincgai1.com/application/login/controller/Login.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 [ sql ] [ DB ] CONNECT:[ UseTime:0.000663s ] mysql:dbname=jiexi_monocon_c;host=localhost;port=3306;charset=utf8
@@ -1246,7 +1246,7 @@
 ---------------------------------------------------------------
 [ 2018-08-18T11:21:00+08:00 ] 10.17.16.218 117.23.61.137 GET /wodetu2.jpg
 [ info ] app.monocon.com.cn/wodetu2.jpg [运行时间：0.019677s][吞吐率：50.82req/s] [内存消耗：1,898.74kb] [文件加载：40]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -1277,8 +1277,8 @@
 [ info ] [ LOG ] INIT File
 ---------------------------------------------------------------
 [ 2018-08-18T11:37:35+08:00 ] 10.17.16.218 118.212.233.110 GET /
-[ info ] jiexi.monocon.com.cn/ [运行时间：0.042565s][吞吐率：23.49req/s] [内存消耗：3,226.47kb] [文件加载：54]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/ [运行时间：0.042565s][吞吐率：23.49req/s] [内存消耗：3,226.47kb] [文件加载：54]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -1289,7 +1289,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '111.85.62.224',
   'x-real-forwarded-for' => '111.85.62.224',
   'upgrade-insecure-requests' => '1',
@@ -1309,9 +1309,9 @@
 )
 [ info ] [ PARAM ] array (
 )
-[ info ] [ RUN ] app\app\controller\Index->index[ /www/wwwroot/jiexi.monocon.com.cn/application/app/controller/Index.php ]
+[ info ] [ RUN ] app\app\controller\Index->index[ /www/wwwroot/www.xincgai1.com/application/app/controller/Index.php ]
 [ info ] [ DB ] INIT mysql
-[ info ] [ VIEW ] /www/wwwroot/jiexi.monocon.com.cn/application/app/view/index/index.html [ array (
+[ info ] [ VIEW ] /www/wwwroot/www.xincgai1.com/application/app/view/index/index.html [ array (
   0 => 'share',
   1 => 'sid',
 ) ]
@@ -1322,7 +1322,7 @@
 ---------------------------------------------------------------
 [ 2018-08-18T11:37:41+08:00 ] 10.17.16.218 118.212.233.110 GET /zhuijuba.apk
 [ info ] app.monocon.com.cn/zhuijuba.apk [运行时间：0.025472s][吞吐率：39.26req/s] [内存消耗：1,899.30kb] [文件加载：40]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -1340,7 +1340,7 @@
   'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0',
   'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
   'dnt' => '1',
-  'referer' => 'http://jiexi.monocon.com.cn/',
+  'referer' => 'http://www.xincgai1.com/',
   'accept-encoding' => 'gzip, deflate, sdch',
   'accept-language' => 'zh-CN,zh;q=0.8',
   'x-connecting-ip' => '111.85.62.224',
@@ -1356,7 +1356,7 @@
 ---------------------------------------------------------------
 [ 2018-08-18T11:37:41+08:00 ] 10.17.16.218 118.212.233.110 GET /zhuijuba.apk
 [ info ] app.monocon.com.cn/zhuijuba.apk [运行时间：0.018148s][吞吐率：55.10req/s] [内存消耗：1,925.59kb] [文件加载：39]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -1374,7 +1374,7 @@
   'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0',
   'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
   'dnt' => '1',
-  'referer' => 'http://jiexi.monocon.com.cn/',
+  'referer' => 'http://www.xincgai1.com/',
   'accept-encoding' => 'gzip, deflate, sdch',
   'accept-language' => 'zh-CN,zh;q=0.8',
   'x-connecting-ip' => '111.85.62.224',
@@ -1390,7 +1390,7 @@
 ---------------------------------------------------------------
 [ 2018-08-18T11:37:41+08:00 ] 10.17.16.218 180.97.158.216 HEAD /zhuijuba.apk
 [ info ] app.monocon.com.cn/zhuijuba.apk [运行时间：0.019325s][吞吐率：51.75req/s] [内存消耗：1,897.64kb] [文件加载：40]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -1419,7 +1419,7 @@
 ---------------------------------------------------------------
 [ 2018-08-18T11:37:41+08:00 ] 10.17.16.218 180.97.158.216 HEAD /zhuijuba.apk
 [ info ] app.monocon.com.cn/zhuijuba.apk [运行时间：0.036302s][吞吐率：27.55req/s] [内存消耗：1,897.66kb] [文件加载：40]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -1447,8 +1447,8 @@
 [ info ] [ LOG ] INIT File
 ---------------------------------------------------------------
 [ 2018-08-18T11:37:53+08:00 ] 10.17.16.218 118.212.233.110 GET /login/login.html
-[ info ] jiexi.monocon.com.cn/login/login.html [运行时间：0.027519s][吞吐率：36.34req/s] [内存消耗：2,489.70kb] [文件加载：48]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/login/login.html [运行时间：0.027519s][吞吐率：36.34req/s] [内存消耗：2,489.70kb] [文件加载：48]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -1459,7 +1459,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '111.85.62.224',
   'x-real-forwarded-for' => '111.85.62.224',
   'upgrade-insecure-requests' => '1',
@@ -1478,14 +1478,14 @@
 )
 [ info ] [ PARAM ] array (
 )
-[ info ] [ RUN ] app\login\controller\Login->index[ /www/wwwroot/jiexi.monocon.com.cn/application/login/controller/Login.php ]
-[ info ] [ VIEW ] /www/wwwroot/jiexi.monocon.com.cn/application/login/view/login/index.html [ array (
+[ info ] [ RUN ] app\login\controller\Login->index[ /www/wwwroot/www.xincgai1.com/application/login/controller/Login.php ]
+[ info ] [ VIEW ] /www/wwwroot/www.xincgai1.com/application/login/view/login/index.html [ array (
 ) ]
 [ info ] [ LOG ] INIT File
 ---------------------------------------------------------------
 [ 2018-08-18T11:38:03+08:00 ] 10.17.16.218 118.212.233.110 POST /login/login/veify.html
-[ info ] jiexi.monocon.com.cn/login/login/veify.html [运行时间：0.036130s][吞吐率：27.68req/s] [内存消耗：3,391.96kb] [文件加载：53]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/login/login/veify.html [运行时间：0.036130s][吞吐率：27.68req/s] [内存消耗：3,391.96kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -1496,17 +1496,17 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '111.85.62.224',
   'x-real-forwarded-for' => '111.85.62.224',
   'content-length' => '48',
   'accept' => 'application/json, text/javascript, */*; q=0.01',
-  'origin' => 'http://jiexi.monocon.com.cn',
+  'origin' => 'http://www.xincgai1.com',
   'x-requested-with' => 'XMLHttpRequest',
   'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0',
   'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
   'dnt' => '1',
-  'referer' => 'http://jiexi.monocon.com.cn/login/login.html',
+  'referer' => 'http://www.xincgai1.com/login/login.html',
   'accept-encoding' => 'gzip, deflate',
   'accept-language' => 'zh-CN,zh;q=0.8',
   'cookie' => 'UM_distinctid=1652407f8c3402-032054d66abe94-10724c6f-100200-1652407f8c4205; __jsluid=341964a247b58b1720d83a4c758309a3; yjs_id=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXT1c2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzU4LjAuMzAyOS4xMTAgU2FmYXJpLzUzNy4zNiBTRSAyLlggTWV0YVNyIDEuMHxqaWV4aS5tb25vY29uLmNvbS5jbnwxNTMzOTY3MjUzNTMwfGh0dHA6Ly8xMDYuNzUuNjkuMTA1Ojg4ODgvc2l0ZQ; ctrl_time=1',
@@ -1520,7 +1520,7 @@
   'username' => '21013146',
   'passwd' => 'woaini123',
 )
-[ info ] [ RUN ] app\login\controller\Login->veify[ /www/wwwroot/jiexi.monocon.com.cn/application/login/controller/Login.php ]
+[ info ] [ RUN ] app\login\controller\Login->veify[ /www/wwwroot/www.xincgai1.com/application/login/controller/Login.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ SESSION ] INIT array (
   'id' => '',
@@ -1535,8 +1535,8 @@
 [ sql ] [ SQL ] SELECT * FROM `ap_user` WHERE  (  username="21013146" and password ="a06afdc0b83f543ad66f3d36470d27db" and status =1 and (power =1 or power=0) ) LIMIT 1 [ RunTime:0.000507s ]
 ---------------------------------------------------------------
 [ 2018-08-18T11:38:03+08:00 ] 10.17.16.218 118.212.233.110 GET /index/index/index.html
-[ info ] jiexi.monocon.com.cn/index/index/index.html [运行时间：0.053068s][吞吐率：18.84req/s] [内存消耗：3,296.34kb] [文件加载：54]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/index/index/index.html [运行时间：0.053068s][吞吐率：18.84req/s] [内存消耗：3,296.34kb] [文件加载：54]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -1547,14 +1547,14 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '111.85.62.224',
   'x-real-forwarded-for' => '111.85.62.224',
   'upgrade-insecure-requests' => '1',
   'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0',
   'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
   'dnt' => '1',
-  'referer' => 'http://jiexi.monocon.com.cn/login/login.html',
+  'referer' => 'http://www.xincgai1.com/login/login.html',
   'accept-encoding' => 'gzip, deflate, sdch',
   'accept-language' => 'zh-CN,zh;q=0.8',
   'cookie' => 'UM_distinctid=1652407f8c3402-032054d66abe94-10724c6f-100200-1652407f8c4205; __jsluid=341964a247b58b1720d83a4c758309a3; yjs_id=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXT1c2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzU4LjAuMzAyOS4xMTAgU2FmYXJpLzUzNy4zNiBTRSAyLlggTWV0YVNyIDEuMHxqaWV4aS5tb25vY29uLmNvbS5jbnwxNTMzOTY3MjUzNTMwfGh0dHA6Ly8xMDYuNzUuNjkuMTA1Ojg4ODgvc2l0ZQ; ctrl_time=1; PHPSESSID=9sll0ceogdul1dgplpl8m9au86',
@@ -1574,9 +1574,9 @@
   'type' => '',
   'auto_start' => true,
 )
-[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/jiexi.monocon.com.cn/application/index/controller/Index.php ]
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.xincgai1.com/application/index/controller/Index.php ]
 [ info ] [ DB ] INIT mysql
-[ info ] [ VIEW ] /www/wwwroot/jiexi.monocon.com.cn/application/index/view/index/index.html [ array (
+[ info ] [ VIEW ] /www/wwwroot/www.xincgai1.com/application/index/view/index/index.html [ array (
   0 => 'fcount',
   1 => 'mcount',
   2 => 'tzcount',
@@ -1593,8 +1593,8 @@
 [ sql ] [ SQL ] SELECT `username` FROM `ap_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000257s ]
 ---------------------------------------------------------------
 [ 2018-08-18T11:38:09+08:00 ] 10.17.16.218 118.212.233.110 GET /index/admin/index.html
-[ info ] jiexi.monocon.com.cn/index/admin/index.html [运行时间：0.087296s][吞吐率：11.46req/s] [内存消耗：3,478.06kb] [文件加载：57]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/index/admin/index.html [运行时间：0.087296s][吞吐率：11.46req/s] [内存消耗：3,478.06kb] [文件加载：57]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -1605,14 +1605,14 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '111.85.62.224',
   'x-real-forwarded-for' => '111.85.62.224',
   'upgrade-insecure-requests' => '1',
   'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0',
   'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
   'dnt' => '1',
-  'referer' => 'http://jiexi.monocon.com.cn/index/index/index.html',
+  'referer' => 'http://www.xincgai1.com/index/index/index.html',
   'accept-encoding' => 'gzip, deflate, sdch',
   'accept-language' => 'zh-CN,zh;q=0.8',
   'cookie' => 'UM_distinctid=1652407f8c3402-032054d66abe94-10724c6f-100200-1652407f8c4205; __jsluid=341964a247b58b1720d83a4c758309a3; yjs_id=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXT1c2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzU4LjAuMzAyOS4xMTAgU2FmYXJpLzUzNy4zNiBTRSAyLlggTWV0YVNyIDEuMHxqaWV4aS5tb25vY29uLmNvbS5jbnwxNTMzOTY3MjUzNTMwfGh0dHA6Ly8xMDYuNzUuNjkuMTA1Ojg4ODgvc2l0ZQ; ctrl_time=1; PHPSESSID=9sll0ceogdul1dgplpl8m9au86',
@@ -1632,9 +1632,9 @@
   'type' => '',
   'auto_start' => true,
 )
-[ info ] [ RUN ] app\index\controller\Admin->index[ /www/wwwroot/jiexi.monocon.com.cn/application/index/controller/Admin.php ]
+[ info ] [ RUN ] app\index\controller\Admin->index[ /www/wwwroot/www.xincgai1.com/application/index/controller/Admin.php ]
 [ info ] [ DB ] INIT mysql
-[ info ] [ VIEW ] /www/wwwroot/jiexi.monocon.com.cn/application/index/view/admin/index.html [ array (
+[ info ] [ VIEW ] /www/wwwroot/www.xincgai1.com/application/index/view/admin/index.html [ array (
   0 => 'list',
   1 => 'code',
 ) ]
@@ -1646,8 +1646,8 @@
 [ sql ] [ SQL ] SELECT `username` FROM `ap_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000249s ]
 ---------------------------------------------------------------
 [ 2018-08-18T11:38:12+08:00 ] 10.17.16.218 118.212.233.110 GET /index/admin/update/id/2.html
-[ info ] jiexi.monocon.com.cn/index/admin/update/id/2.html [运行时间：0.053375s][吞吐率：18.74req/s] [内存消耗：3,323.80kb] [文件加载：54]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/index/admin/update/id/2.html [运行时间：0.053375s][吞吐率：18.74req/s] [内存消耗：3,323.80kb] [文件加载：54]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -1658,14 +1658,14 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '111.85.62.224',
   'x-real-forwarded-for' => '111.85.62.224',
   'upgrade-insecure-requests' => '1',
   'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0',
   'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
   'dnt' => '1',
-  'referer' => 'http://jiexi.monocon.com.cn/index/admin/index.html',
+  'referer' => 'http://www.xincgai1.com/index/admin/index.html',
   'accept-encoding' => 'gzip, deflate, sdch',
   'accept-language' => 'zh-CN,zh;q=0.8',
   'cookie' => 'UM_distinctid=1652407f8c3402-032054d66abe94-10724c6f-100200-1652407f8c4205; __jsluid=341964a247b58b1720d83a4c758309a3; yjs_id=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXT1c2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzU4LjAuMzAyOS4xMTAgU2FmYXJpLzUzNy4zNiBTRSAyLlggTWV0YVNyIDEuMHxqaWV4aS5tb25vY29uLmNvbS5jbnwxNTMzOTY3MjUzNTMwfGh0dHA6Ly8xMDYuNzUuNjkuMTA1Ojg4ODgvc2l0ZQ; ctrl_time=1; PHPSESSID=9sll0ceogdul1dgplpl8m9au86',
@@ -1686,9 +1686,9 @@
   'type' => '',
   'auto_start' => true,
 )
-[ info ] [ RUN ] app\index\controller\Admin->update[ /www/wwwroot/jiexi.monocon.com.cn/application/index/controller/Admin.php ]
+[ info ] [ RUN ] app\index\controller\Admin->update[ /www/wwwroot/www.xincgai1.com/application/index/controller/Admin.php ]
 [ info ] [ DB ] INIT mysql
-[ info ] [ VIEW ] /www/wwwroot/jiexi.monocon.com.cn/application/index/view/admin/update.html [ array (
+[ info ] [ VIEW ] /www/wwwroot/www.xincgai1.com/application/index/view/admin/update.html [ array (
   0 => 'page',
   1 => 'data',
   2 => 'code',
@@ -1701,8 +1701,8 @@
 [ sql ] [ SQL ] SELECT `username` FROM `ap_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000296s ]
 ---------------------------------------------------------------
 [ 2018-08-18T11:38:20+08:00 ] 10.17.16.218 118.212.233.110 POST /index/admin/update.html
-[ info ] jiexi.monocon.com.cn/index/admin/update.html [运行时间：0.070521s][吞吐率：14.18req/s] [内存消耗：3,334.91kb] [文件加载：54]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/index/admin/update.html [运行时间：0.070521s][吞吐率：14.18req/s] [内存消耗：3,334.91kb] [文件加载：54]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -1713,18 +1713,18 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '111.85.62.224',
   'x-real-forwarded-for' => '111.85.62.224',
   'content-length' => '53',
   'cache-control' => 'max-age=0',
-  'origin' => 'http://jiexi.monocon.com.cn',
+  'origin' => 'http://www.xincgai1.com',
   'upgrade-insecure-requests' => '1',
   'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0',
   'content-type' => 'application/x-www-form-urlencoded',
   'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
   'dnt' => '1',
-  'referer' => 'http://jiexi.monocon.com.cn/index/admin/update/id/2.html',
+  'referer' => 'http://www.xincgai1.com/index/admin/update/id/2.html',
   'accept-encoding' => 'gzip, deflate',
   'accept-language' => 'zh-CN,zh;q=0.8',
   'cookie' => 'UM_distinctid=1652407f8c3402-032054d66abe94-10724c6f-100200-1652407f8c4205; __jsluid=341964a247b58b1720d83a4c758309a3; yjs_id=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXT1c2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzU4LjAuMzAyOS4xMTAgU2FmYXJpLzUzNy4zNiBTRSAyLlggTWV0YVNyIDEuMHxqaWV4aS5tb25vY29uLmNvbS5jbnwxNTMzOTY3MjUzNTMwfGh0dHA6Ly8xMDYuNzUuNjkuMTA1Ojg4ODgvc2l0ZQ; ctrl_time=1; PHPSESSID=9sll0ceogdul1dgplpl8m9au86',
@@ -1747,7 +1747,7 @@
   'type' => '',
   'auto_start' => true,
 )
-[ info ] [ RUN ] app\index\controller\Admin->update[ /www/wwwroot/jiexi.monocon.com.cn/application/index/controller/Admin.php ]
+[ info ] [ RUN ] app\index\controller\Admin->update[ /www/wwwroot/www.xincgai1.com/application/index/controller/Admin.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ CACHE ] INIT File
 [ info ] [ LOG ] INIT File
@@ -1760,8 +1760,8 @@
 [ sql ] [ SQL ] UPDATE `ap_user`  SET `username`='admin',`password`='0c7540eb7e65b553ec1ba6b20de79608',`ctime`=1534563500  WHERE  `id` = 2 [ RunTime:0.002537s ]
 ---------------------------------------------------------------
 [ 2018-08-18T11:38:20+08:00 ] 10.17.16.218 118.212.233.110 GET /index/admin/index?page=0
-[ info ] jiexi.monocon.com.cn/index/admin/index?page=0 [运行时间：0.046773s][吞吐率：21.38req/s] [内存消耗：3,479.20kb] [文件加载：57]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/index/admin/index?page=0 [运行时间：0.046773s][吞吐率：21.38req/s] [内存消耗：3,479.20kb] [文件加载：57]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -1772,14 +1772,14 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '111.85.62.224',
   'x-real-forwarded-for' => '111.85.62.224',
   'upgrade-insecure-requests' => '1',
   'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0',
   'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
   'dnt' => '1',
-  'referer' => 'http://jiexi.monocon.com.cn/index/admin/update.html',
+  'referer' => 'http://www.xincgai1.com/index/admin/update.html',
   'accept-encoding' => 'gzip, deflate, sdch',
   'accept-language' => 'zh-CN,zh;q=0.8',
   'cookie' => 'UM_distinctid=1652407f8c3402-032054d66abe94-10724c6f-100200-1652407f8c4205; __jsluid=341964a247b58b1720d83a4c758309a3; yjs_id=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXT1c2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzU4LjAuMzAyOS4xMTAgU2FmYXJpLzUzNy4zNiBTRSAyLlggTWV0YVNyIDEuMHxqaWV4aS5tb25vY29uLmNvbS5jbnwxNTMzOTY3MjUzNTMwfGh0dHA6Ly8xMDYuNzUuNjkuMTA1Ojg4ODgvc2l0ZQ; ctrl_time=1; PHPSESSID=9sll0ceogdul1dgplpl8m9au86',
@@ -1800,9 +1800,9 @@
   'type' => '',
   'auto_start' => true,
 )
-[ info ] [ RUN ] app\index\controller\Admin->index[ /www/wwwroot/jiexi.monocon.com.cn/application/index/controller/Admin.php ]
+[ info ] [ RUN ] app\index\controller\Admin->index[ /www/wwwroot/www.xincgai1.com/application/index/controller/Admin.php ]
 [ info ] [ DB ] INIT mysql
-[ info ] [ VIEW ] /www/wwwroot/jiexi.monocon.com.cn/application/index/view/admin/index.html [ array (
+[ info ] [ VIEW ] /www/wwwroot/www.xincgai1.com/application/index/view/admin/index.html [ array (
   0 => 'list',
   1 => 'code',
 ) ]
@@ -1814,8 +1814,8 @@
 [ sql ] [ SQL ] SELECT `username` FROM `ap_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000335s ]
 ---------------------------------------------------------------
 [ 2018-08-18T11:38:22+08:00 ] 10.17.16.218 118.212.233.110 GET /index/admin/update/id/1/page/0.html
-[ info ] jiexi.monocon.com.cn/index/admin/update/id/1/page/0.html [运行时间：0.035464s][吞吐率：28.20req/s] [内存消耗：3,324.27kb] [文件加载：54]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/index/admin/update/id/1/page/0.html [运行时间：0.035464s][吞吐率：28.20req/s] [内存消耗：3,324.27kb] [文件加载：54]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -1826,14 +1826,14 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '111.85.62.224',
   'x-real-forwarded-for' => '111.85.62.224',
   'upgrade-insecure-requests' => '1',
   'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0',
   'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
   'dnt' => '1',
-  'referer' => 'http://jiexi.monocon.com.cn/index/admin/index?page=0',
+  'referer' => 'http://www.xincgai1.com/index/admin/index?page=0',
   'accept-encoding' => 'gzip, deflate, sdch',
   'accept-language' => 'zh-CN,zh;q=0.8',
   'cookie' => 'UM_distinctid=1652407f8c3402-032054d66abe94-10724c6f-100200-1652407f8c4205; __jsluid=341964a247b58b1720d83a4c758309a3; yjs_id=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXT1c2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzU4LjAuMzAyOS4xMTAgU2FmYXJpLzUzNy4zNiBTRSAyLlggTWV0YVNyIDEuMHxqaWV4aS5tb25vY29uLmNvbS5jbnwxNTMzOTY3MjUzNTMwfGh0dHA6Ly8xMDYuNzUuNjkuMTA1Ojg4ODgvc2l0ZQ; ctrl_time=1; PHPSESSID=9sll0ceogdul1dgplpl8m9au86',
@@ -1855,9 +1855,9 @@
   'type' => '',
   'auto_start' => true,
 )
-[ info ] [ RUN ] app\index\controller\Admin->update[ /www/wwwroot/jiexi.monocon.com.cn/application/index/controller/Admin.php ]
+[ info ] [ RUN ] app\index\controller\Admin->update[ /www/wwwroot/www.xincgai1.com/application/index/controller/Admin.php ]
 [ info ] [ DB ] INIT mysql
-[ info ] [ VIEW ] /www/wwwroot/jiexi.monocon.com.cn/application/index/view/admin/update.html [ array (
+[ info ] [ VIEW ] /www/wwwroot/www.xincgai1.com/application/index/view/admin/update.html [ array (
   0 => 'page',
   1 => 'data',
   2 => 'code',
@@ -1870,8 +1870,8 @@
 [ sql ] [ SQL ] SELECT `username` FROM `ap_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000286s ]
 ---------------------------------------------------------------
 [ 2018-08-18T11:38:30+08:00 ] 10.17.16.218 118.212.233.110 POST /index/admin/update.html
-[ info ] jiexi.monocon.com.cn/index/admin/update.html [运行时间：0.040318s][吞吐率：24.80req/s] [内存消耗：3,327.80kb] [文件加载：54]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/index/admin/update.html [运行时间：0.040318s][吞吐率：24.80req/s] [内存消耗：3,327.80kb] [文件加载：54]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -1882,18 +1882,18 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '111.85.62.224',
   'x-real-forwarded-for' => '111.85.62.224',
   'content-length' => '53',
   'cache-control' => 'max-age=0',
-  'origin' => 'http://jiexi.monocon.com.cn',
+  'origin' => 'http://www.xincgai1.com',
   'upgrade-insecure-requests' => '1',
   'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0',
   'content-type' => 'application/x-www-form-urlencoded',
   'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
   'dnt' => '1',
-  'referer' => 'http://jiexi.monocon.com.cn/index/admin/update/id/1/page/0.html',
+  'referer' => 'http://www.xincgai1.com/index/admin/update/id/1/page/0.html',
   'accept-encoding' => 'gzip, deflate',
   'accept-language' => 'zh-CN,zh;q=0.8',
   'cookie' => 'UM_distinctid=1652407f8c3402-032054d66abe94-10724c6f-100200-1652407f8c4205; __jsluid=341964a247b58b1720d83a4c758309a3; yjs_id=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXT1c2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzU4LjAuMzAyOS4xMTAgU2FmYXJpLzUzNy4zNiBTRSAyLlggTWV0YVNyIDEuMHxqaWV4aS5tb25vY29uLmNvbS5jbnwxNTMzOTY3MjUzNTMwfGh0dHA6Ly8xMDYuNzUuNjkuMTA1Ojg4ODgvc2l0ZQ; ctrl_time=1; PHPSESSID=9sll0ceogdul1dgplpl8m9au86',
@@ -1916,7 +1916,7 @@
   'type' => '',
   'auto_start' => true,
 )
-[ info ] [ RUN ] app\index\controller\Admin->update[ /www/wwwroot/jiexi.monocon.com.cn/application/index/controller/Admin.php ]
+[ info ] [ RUN ] app\index\controller\Admin->update[ /www/wwwroot/www.xincgai1.com/application/index/controller/Admin.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ CACHE ] INIT File
 [ info ] [ LOG ] INIT File
@@ -1927,8 +1927,8 @@
 [ sql ] [ SQL ] UPDATE `ap_user`  SET `username`='admin',`password`='0c7540eb7e65b553ec1ba6b20de79608',`ctime`=1534563510  WHERE  `id` = 1 [ RunTime:0.003289s ]
 ---------------------------------------------------------------
 [ 2018-08-18T11:38:30+08:00 ] 10.17.16.218 118.212.233.110 GET /index/admin/index/id/1?page=0
-[ info ] jiexi.monocon.com.cn/index/admin/index/id/1?page=0 [运行时间：0.041246s][吞吐率：24.24req/s] [内存消耗：3,479.52kb] [文件加载：57]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/index/admin/index/id/1?page=0 [运行时间：0.041246s][吞吐率：24.24req/s] [内存消耗：3,479.52kb] [文件加载：57]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -1939,14 +1939,14 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '111.85.62.224',
   'x-real-forwarded-for' => '111.85.62.224',
   'upgrade-insecure-requests' => '1',
   'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0',
   'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
   'dnt' => '1',
-  'referer' => 'http://jiexi.monocon.com.cn/index/admin/update.html',
+  'referer' => 'http://www.xincgai1.com/index/admin/update.html',
   'accept-encoding' => 'gzip, deflate, sdch',
   'accept-language' => 'zh-CN,zh;q=0.8',
   'cookie' => 'UM_distinctid=1652407f8c3402-032054d66abe94-10724c6f-100200-1652407f8c4205; __jsluid=341964a247b58b1720d83a4c758309a3; yjs_id=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXT1c2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzU4LjAuMzAyOS4xMTAgU2FmYXJpLzUzNy4zNiBTRSAyLlggTWV0YVNyIDEuMHxqaWV4aS5tb25vY29uLmNvbS5jbnwxNTMzOTY3MjUzNTMwfGh0dHA6Ly8xMDYuNzUuNjkuMTA1Ojg4ODgvc2l0ZQ; ctrl_time=1; PHPSESSID=9sll0ceogdul1dgplpl8m9au86',
@@ -1968,9 +1968,9 @@
   'type' => '',
   'auto_start' => true,
 )
-[ info ] [ RUN ] app\index\controller\Admin->index[ /www/wwwroot/jiexi.monocon.com.cn/application/index/controller/Admin.php ]
+[ info ] [ RUN ] app\index\controller\Admin->index[ /www/wwwroot/www.xincgai1.com/application/index/controller/Admin.php ]
 [ info ] [ DB ] INIT mysql
-[ info ] [ VIEW ] /www/wwwroot/jiexi.monocon.com.cn/application/index/view/admin/index.html [ array (
+[ info ] [ VIEW ] /www/wwwroot/www.xincgai1.com/application/index/view/admin/index.html [ array (
   0 => 'list',
   1 => 'code',
 ) ]
@@ -1982,8 +1982,8 @@
 [ sql ] [ SQL ] SELECT `username` FROM `ap_user` WHERE  `id` = 2 LIMIT 1 [ RunTime:0.000335s ]
 ---------------------------------------------------------------
 [ 2018-08-18T11:38:31+08:00 ] 10.17.16.218 118.212.233.110 GET /login/login/tongji.html?os=android&imei=868671031102931&uid=0
-[ info ] jiexi.monocon.com.cn/login/login/tongji.html?os=android&imei=868671031102931&uid=0 [运行时间：0.037517s][吞吐率：26.65req/s] [内存消耗：3,363.28kb] [文件加载：53]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/login/login/tongji.html?os=android&imei=868671031102931&uid=0 [运行时间：0.037517s][吞吐率：26.65req/s] [内存消耗：3,363.28kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -1994,7 +1994,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '223.104.254.144',
   'x-real-forwarded-for' => '223.104.254.144',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL10 Build/HONORLLD-AL10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36',
@@ -2013,7 +2013,7 @@
   'imei' => '868671031102931',
   'uid' => '0',
 )
-[ info ] [ RUN ] app\login\controller\Login->tongji[ /www/wwwroot/jiexi.monocon.com.cn/application/login/controller/Login.php ]
+[ info ] [ RUN ] app\login\controller\Login->tongji[ /www/wwwroot/www.xincgai1.com/application/login/controller/Login.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 [ sql ] [ DB ] CONNECT:[ UseTime:0.000678s ] mysql:dbname=jiexi_monocon_c;host=localhost;port=3306;charset=utf8
@@ -2021,8 +2021,8 @@
 [ sql ] [ SQL ] INSERT INTO `ap_tongji` (`os` , `imei` , `uid` , `time`) VALUES ('android' , '868671031102931' , 0 , '1534563511') [ RunTime:0.002687s ]
 ---------------------------------------------------------------
 [ 2018-08-18T11:38:32+08:00 ] 10.17.16.218 118.212.233.110 GET /login/login/banben.html
-[ info ] jiexi.monocon.com.cn/login/login/banben.html [运行时间：0.038886s][吞吐率：25.72req/s] [内存消耗：3,370.31kb] [文件加载：53]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/login/login/banben.html [运行时间：0.038886s][吞吐率：25.72req/s] [内存消耗：3,370.31kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -2033,7 +2033,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '223.104.254.144',
   'x-real-forwarded-for' => '223.104.254.144',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL10 Build/HONORLLD-AL10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36',
@@ -2050,7 +2050,7 @@
 )
 [ info ] [ PARAM ] array (
 )
-[ info ] [ RUN ] app\login\controller\Login->banben[ /www/wwwroot/jiexi.monocon.com.cn/application/login/controller/Login.php ]
+[ info ] [ RUN ] app\login\controller\Login->banben[ /www/wwwroot/www.xincgai1.com/application/login/controller/Login.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 [ sql ] [ DB ] CONNECT:[ UseTime:0.000518s ] mysql:dbname=jiexi_monocon_c;host=localhost;port=3306;charset=utf8
@@ -2065,8 +2065,8 @@
 [ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 7 LIMIT 1 [ RunTime:0.000194s ]
 ---------------------------------------------------------------
 [ 2018-08-18T11:38:32+08:00 ] 10.17.16.218 118.212.233.110 GET /login/login/imgad.html
-[ info ] jiexi.monocon.com.cn/login/login/imgad.html [运行时间：0.033937s][吞吐率：29.47req/s] [内存消耗：3,368.21kb] [文件加载：53]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/login/login/imgad.html [运行时间：0.033937s][吞吐率：29.47req/s] [内存消耗：3,368.21kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -2077,7 +2077,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '223.104.254.144',
   'x-real-forwarded-for' => '223.104.254.144',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL10 Build/HONORLLD-AL10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36',
@@ -2094,7 +2094,7 @@
 )
 [ info ] [ PARAM ] array (
 )
-[ info ] [ RUN ] app\login\controller\Login->imgad[ /www/wwwroot/jiexi.monocon.com.cn/application/login/controller/Login.php ]
+[ info ] [ RUN ] app\login\controller\Login->imgad[ /www/wwwroot/www.xincgai1.com/application/login/controller/Login.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 [ sql ] [ DB ] CONNECT:[ UseTime:0.000282s ] mysql:dbname=jiexi_monocon_c;host=localhost;port=3306;charset=utf8
@@ -2107,8 +2107,8 @@
 [ sql ] [ SQL ] SELECT `content` FROM `ap_advert` WHERE  `id` = 17 LIMIT 1 [ RunTime:0.000202s ]
 ---------------------------------------------------------------
 [ 2018-08-18T11:38:32+08:00 ] 10.17.16.218 118.212.233.110 GET /login/login/banner.html
-[ info ] jiexi.monocon.com.cn/login/login/banner.html [运行时间：0.034508s][吞吐率：28.98req/s] [内存消耗：3,361.83kb] [文件加载：53]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/login/login/banner.html [运行时间：0.034508s][吞吐率：28.98req/s] [内存消耗：3,361.83kb] [文件加载：53]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -2119,7 +2119,7 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '223.104.254.144',
   'x-real-forwarded-for' => '223.104.254.144',
   'user-agent' => 'Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL10 Build/HONORLLD-AL10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36',
@@ -2136,7 +2136,7 @@
 )
 [ info ] [ PARAM ] array (
 )
-[ info ] [ RUN ] app\login\controller\Login->banner[ /www/wwwroot/jiexi.monocon.com.cn/application/login/controller/Login.php ]
+[ info ] [ RUN ] app\login\controller\Login->banner[ /www/wwwroot/www.xincgai1.com/application/login/controller/Login.php ]
 [ info ] [ DB ] INIT mysql
 [ info ] [ LOG ] INIT File
 [ sql ] [ DB ] CONNECT:[ UseTime:0.000426s ] mysql:dbname=jiexi_monocon_c;host=localhost;port=3306;charset=utf8
@@ -2144,8 +2144,8 @@
 [ sql ] [ SQL ] SELECT * FROM `ap_banner` [ RunTime:0.000292s ]
 ---------------------------------------------------------------
 [ 2018-08-18T11:38:32+08:00 ] 10.17.16.218 118.212.233.110 GET /index/index/index.html
-[ info ] jiexi.monocon.com.cn/index/index/index.html [运行时间：0.037767s][吞吐率：26.48req/s] [内存消耗：3,296.38kb] [文件加载：54]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] www.xincgai1.com/index/index/index.html [运行时间：0.037767s][吞吐率：26.48req/s] [内存消耗：3,296.38kb] [文件加载：54]
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -2156,14 +2156,14 @@
   ),
 )
 [ info ] [ HEADER ] array (
-  'host' => 'jiexi.monocon.com.cn',
+  'host' => 'www.xincgai1.com',
   'x-forwarded-for' => '111.85.62.224',
   'x-real-forwarded-for' => '111.85.62.224',
   'upgrade-insecure-requests' => '1',
   'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0',
   'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
   'dnt' => '1',
-  'referer' => 'http://jiexi.monocon.com.cn/index/admin/index/id/1?page=0',
+  'referer' => 'http://www.xincgai1.com/index/admin/index/id/1?page=0',
   'accept-encoding' => 'gzip, deflate, sdch',
   'accept-language' => 'zh-CN,zh;q=0.8',
   'cookie' => 'UM_distinctid=1652407f8c3402-032054d66abe94-10724c6f-100200-1652407f8c4205; __jsluid=341964a247b58b1720d83a4c758309a3; yjs_id=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXT1c2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzU4LjAuMzAyOS4xMTAgU2FmYXJpLzUzNy4zNiBTRSAyLlggTWV0YVNyIDEuMHxqaWV4aS5tb25vY29uLmNvbS5jbnwxNTMzOTY3MjUzNTMwfGh0dHA6Ly8xMDYuNzUuNjkuMTA1Ojg4ODgvc2l0ZQ; ctrl_time=1; PHPSESSID=9sll0ceogdul1dgplpl8m9au86',
@@ -2183,9 +2183,9 @@
   'type' => '',
   'auto_start' => true,
 )
-[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/jiexi.monocon.com.cn/application/index/controller/Index.php ]
+[ info ] [ RUN ] app\index\controller\Index->index[ /www/wwwroot/www.xincgai1.com/application/index/controller/Index.php ]
 [ info ] [ DB ] INIT mysql
-[ info ] [ VIEW ] /www/wwwroot/jiexi.monocon.com.cn/application/index/view/index/index.html [ array (
+[ info ] [ VIEW ] /www/wwwroot/www.xincgai1.com/application/index/view/index/index.html [ array (
   0 => 'fcount',
   1 => 'mcount',
   2 => 'tzcount',
@@ -2203,7 +2203,7 @@
 ---------------------------------------------------------------
 [ 2018-08-18T11:38:42+08:00 ] 10.17.16.218 117.23.61.137 HEAD /zhuijuba.apk
 [ info ] app.monocon.com.cn/zhuijuba.apk [运行时间：0.024092s][吞吐率：41.51req/s] [内存消耗：1,896.94kb] [文件加载：40]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -2232,7 +2232,7 @@
 ---------------------------------------------------------------
 [ 2018-08-18T11:38:42+08:00 ] 10.17.16.218 117.23.61.137 HEAD /zhuijuba.apk
 [ info ] app.monocon.com.cn/zhuijuba.apk [运行时间：0.018939s][吞吐率：52.80req/s] [内存消耗：1,896.85kb] [文件加载：40]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 
@@ -2261,7 +2261,7 @@
 ---------------------------------------------------------------
 [ 2018-08-18T11:38:42+08:00 ] 10.17.16.218 180.97.158.216 GET /wodetu2.jpg
 [ info ] app.monocon.com.cn/wodetu2.jpg [运行时间：0.018771s][吞吐率：53.27req/s] [内存消耗：1,924.06kb] [文件加载：39]
-[ info ] [ LANG ] /www/wwwroot/jiexi.monocon.com.cn/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/www.xincgai1.com/thinkphp/lang/zh-cn.php
 [ info ] [ ROUTE ] array (
   'type' => 'module',
   'module' => 

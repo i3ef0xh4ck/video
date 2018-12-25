@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:73:"/www/wwwroot/jiexi.monocon.com.cn/application/index/view/user/paylog.html";i:1525586296;s:68:"/www/wwwroot/jiexi.monocon.com.cn/application/index/view/layout.html";i:1534126742;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:73:"/www/wwwroot/www.xincgai1.com/application/index/view/user/paylog.html";i:1525586296;s:68:"/www/wwwroot/www.xincgai1.com/application/index/view/layout.html";i:1534126742;}*/ ?>
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
